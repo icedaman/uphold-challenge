@@ -1,0 +1,3590 @@
+[
+  {
+    "ask": "0.1019762975",
+    "bid": "0.0967208822",
+    "currency": "USD",
+    "pair": "$ADS-USD"
+  },
+  {
+    "ask": "0.3793715202",
+    "bid": "0.3767445179",
+    "currency": "USD",
+    "pair": "1INCH-USD"
+  },
+  {
+    "ask": "90.2838414507",
+    "bid": "90.0555475031",
+    "currency": "USD",
+    "pair": "AAVE-USD"
+  },
+  {
+    "ask": "0.0245682406",
+    "bid": "0.024503207",
+    "currency": "USD",
+    "pair": "ACH-USD"
+  },
+  {
+    "ask": "0.4067672751",
+    "bid": "0.4055190049",
+    "currency": "USD",
+    "pair": "ADAUSD"
+  },
+  {
+    "ask": "0.0960320777",
+    "bid": "0.0949328254",
+    "currency": "USD",
+    "pair": "AERGO-USD"
+  },
+  {
+    "ask": "0.8083849612",
+    "bid": "0.7998605007",
+    "currency": "USD",
+    "pair": "AERO-USD"
+  },
+  {
+    "ask": "0.9337623404",
+    "bid": "0.9306710275",
+    "currency": "USD",
+    "pair": "AGLD-USD"
+  },
+  {
+    "ask": "0.5052121884",
+    "bid": "0.502835695",
+    "currency": "USD",
+    "pair": "AIOZ-USD"
+  },
+  {
+    "ask": "15.9448324617",
+    "bid": "15.8551517739",
+    "currency": "USD",
+    "pair": "ALCX-USD"
+  },
+  {
+    "ask": "0.1394603082",
+    "bid": "0.138942492",
+    "currency": "USD",
+    "pair": "ALGO-USD"
+  },
+  {
+    "ask": "1.134495798",
+    "bid": "1.1286950605",
+    "currency": "USD",
+    "pair": "ALICE-USD"
+  },
+  {
+    "ask": "1.7984561612",
+    "bid": "1.7801695432",
+    "currency": "USD",
+    "pair": "ALPH-USD"
+  },
+  {
+    "ask": "0.070027707",
+    "bid": "0.069567617",
+    "currency": "USD",
+    "pair": "ALPHA-USD"
+  },
+  {
+    "ask": "0.0041688483",
+    "bid": "0.0041415692",
+    "currency": "USD",
+    "pair": "AMP-USD"
+  },
+  {
+    "ask": "0.0298345627",
+    "bid": "0.0297306062",
+    "currency": "USD",
+    "pair": "ANKR-USD"
+  },
+  {
+    "ask": "0.7817472694",
+    "bid": "0.7789312515",
+    "currency": "USD",
+    "pair": "APE-USD"
+  },
+  {
+    "ask": "1.8604313965",
+    "bid": "1.8544482844",
+    "currency": "USD",
+    "pair": "API3-USD"
+  },
+  {
+    "ask": "6.8121050206",
+    "bid": "6.7465083621",
+    "currency": "USD",
+    "pair": "APT-USD"
+  },
+  {
+    "ask": "30.8131635038",
+    "bid": "30.7334284845",
+    "currency": "USD",
+    "pair": "AR-USD"
+  },
+  {
+    "ask": "0.7369170102",
+    "bid": "0.7352171445",
+    "currency": "USD",
+    "pair": "ARB-USD"
+  },
+  {
+    "ask": "0.0207751415",
+    "bid": "0.0200175657",
+    "currency": "USD",
+    "pair": "ASM-USD"
+  },
+  {
+    "ask": "0.0719983806",
+    "bid": "0.0717923591",
+    "currency": "USD",
+    "pair": "ASTR-USD"
+  },
+  {
+    "ask": "0.0018665084",
+    "bid": "0.0018547779",
+    "currency": "USD",
+    "pair": "ATLAS-USD"
+  },
+  {
+    "ask": "6.0389307376",
+    "bid": "6.0251713149",
+    "currency": "USD",
+    "pair": "ATOMUSD"
+  },
+  {
+    "ask": "0.65651",
+    "bid": "0.6563915139",
+    "currency": "USD",
+    "pair": "AUDUSD"
+  },
+  {
+    "ask": "0.1390131452",
+    "bid": "0.1360257974",
+    "currency": "USD",
+    "pair": "AUDIO-USD"
+  },
+  {
+    "ask": "0.1659628608",
+    "bid": "0.1640925208",
+    "currency": "USD",
+    "pair": "AURORA-USD"
+  },
+  {
+    "ask": "28.4369757652",
+    "bid": "28.3791030641",
+    "currency": "USD",
+    "pair": "AVAX-USD"
+  },
+  {
+    "ask": "0.6551158028",
+    "bid": "0.64935694",
+    "currency": "USD",
+    "pair": "AXL-USD"
+  },
+  {
+    "ask": "5.9272336831",
+    "bid": "5.8697007312",
+    "currency": "USD",
+    "pair": "AXS-USD"
+  },
+  {
+    "ask": "0.4446616342",
+    "bid": "0.4405662931",
+    "currency": "USD",
+    "pair": "AZERO-USD"
+  },
+  {
+    "ask": "3.1407748323",
+    "bid": "3.1323441229",
+    "currency": "USD",
+    "pair": "BADGER-USD"
+  },
+  {
+    "ask": "2.6441969628",
+    "bid": "2.6229419928",
+    "currency": "USD",
+    "pair": "BAL-USD"
+  },
+  {
+    "ask": "1.3603850069",
+    "bid": "1.3546070447",
+    "currency": "USD",
+    "pair": "BAND-USD"
+  },
+  {
+    "ask": "0.1933189212",
+    "bid": "0.192662573",
+    "currency": "USD",
+    "pair": "BATUSD"
+  },
+  {
+    "ask": "363.4630843721",
+    "bid": "362.748765247",
+    "currency": "USD",
+    "pair": "BCHUSD"
+  },
+  {
+    "ask": "0.0171921027",
+    "bid": "0.0171198036",
+    "currency": "USD",
+    "pair": "BEAM-USD"
+  },
+  {
+    "ask": "0.2999535668",
+    "bid": "0.2989568107",
+    "currency": "USD",
+    "pair": "BICO-USD"
+  },
+  {
+    "ask": "0.1079025511",
+    "bid": "0.1065956436",
+    "currency": "USD",
+    "pair": "BIGTIME-USD"
+  },
+  {
+    "ask": "0.190214842",
+    "bid": "0.1895184065",
+    "currency": "USD",
+    "pair": "BLUR-USD"
+  },
+  {
+    "ask": "0.1717230871",
+    "bid": "0.1693534853",
+    "currency": "USD",
+    "pair": "BLZ-USD"
+  },
+  {
+    "ask": "0.243415088",
+    "bid": "0.2424289872",
+    "currency": "USD",
+    "pair": "BOBA-USD"
+  },
+  {
+    "ask": "0.0086074625",
+    "bid": "0.0085454239",
+    "currency": "USD",
+    "pair": "BOME-USD"
+  },
+  {
+    "ask": "0.4841487241",
+    "bid": "0.4784272227",
+    "currency": "USD",
+    "pair": "BONE-USD"
+  },
+  {
+    "ask": "0.00002746132785",
+    "bid": "0.0000268999711",
+    "currency": "USD",
+    "pair": "BONK-USD"
+  },
+  {
+    "ask": "0.1240216123",
+    "bid": "0.1224135325",
+    "currency": "USD",
+    "pair": "BRETT-USD"
+  },
+  {
+    "ask": "65503.8556558801",
+    "bid": "65391.372230715",
+    "currency": "USD",
+    "pair": "BTCUSD"
+  },
+  {
+    "ask": "24.8434772493",
+    "bid": "24.0140523735",
+    "currency": "USD",
+    "pair": "BTGUSD"
+  },
+  {
+    "ask": "0.1540460893",
+    "bid": "0.1526386527",
+    "currency": "USD",
+    "pair": "C98-USD"
+  },
+  {
+    "ask": "0.72393473",
+    "bid": "0.7238928059",
+    "currency": "USD",
+    "pair": "CADUSD"
+  },
+  {
+    "ask": "1.9535309538",
+    "bid": "1.9473476125",
+    "currency": "USD",
+    "pair": "CAKE-USD"
+  },
+  {
+    "ask": "0.5564783341",
+    "bid": "0.554579886",
+    "currency": "USD",
+    "pair": "CELO-USD"
+  },
+  {
+    "ask": "0.0135654603",
+    "bid": "0.0135096626",
+    "currency": "USD",
+    "pair": "CELR-USD"
+  },
+  {
+    "ask": "1.1306333808",
+    "bid": "1.1305822498",
+    "currency": "USD",
+    "pair": "CHFUSD"
+  },
+  {
+    "ask": "0.2292678155",
+    "bid": "0.2285511834",
+    "currency": "USD",
+    "pair": "CHR-USD"
+  },
+  {
+    "ask": "0.0471164614",
+    "bid": "0.0467388153",
+    "currency": "USD",
+    "pair": "CLV-USD"
+  },
+  {
+    "ask": "0.1376877165",
+    "bid": "0.1375578258",
+    "currency": "USD",
+    "pair": "CNYUSD"
+  },
+  {
+    "ask": "48.9073238989",
+    "bid": "48.7881238239",
+    "currency": "USD",
+    "pair": "COMP-USD"
+  },
+  {
+    "ask": "0.00000205706035",
+    "bid": "0.00000203511396",
+    "currency": "USD",
+    "pair": "COQ-USD"
+  },
+  {
+    "ask": "0.0898704334",
+    "bid": "0.0854330322",
+    "currency": "USD",
+    "pair": "COREUM-USD"
+  },
+  {
+    "ask": "0.003600516",
+    "bid": "0.0034812758",
+    "currency": "USD",
+    "pair": "COVAL-USD"
+  },
+  {
+    "ask": "0.1403497288",
+    "bid": "0.1354230927",
+    "currency": "USD",
+    "pair": "CQT-USD"
+  },
+  {
+    "ask": "0.0918774017",
+    "bid": "0.0915858658",
+    "currency": "USD",
+    "pair": "CRO-USD"
+  },
+  {
+    "ask": "0.2605921073",
+    "bid": "0.2597335969",
+    "currency": "USD",
+    "pair": "CRV-USD"
+  },
+  {
+    "ask": "0.0204965571",
+    "bid": "0.0204412917",
+    "currency": "USD",
+    "pair": "CSPR-USD"
+  },
+  {
+    "ask": "0.1497405374",
+    "bid": "0.1492447255",
+    "currency": "USD",
+    "pair": "CTSI-USD"
+  },
+  {
+    "ask": "0.1024086743",
+    "bid": "0.1016495831",
+    "currency": "USD",
+    "pair": "CVC-USD"
+  },
+  {
+    "ask": "2.9440283948",
+    "bid": "2.9289350122",
+    "currency": "USD",
+    "pair": "CVX-USD"
+  },
+  {
+    "ask": "0.1240388758",
+    "bid": "0.1191994121",
+    "currency": "USD",
+    "pair": "CXT-USD"
+  },
+  {
+    "ask": "0.0426728752",
+    "bid": "0.0426369958",
+    "currency": "USD",
+    "pair": "CZKUSD"
+  },
+  {
+    "ask": "0.0227267531",
+    "bid": "0.0225589538",
+    "currency": "USD",
+    "pair": "C_T-USD"
+  },
+  {
+    "ask": "0.0296913244",
+    "bid": "0.0293873194",
+    "currency": "USD",
+    "pair": "DAG-USD"
+  },
+  {
+    "ask": "1.0005065042",
+    "bid": "0.9990723059",
+    "currency": "USD",
+    "pair": "DAI-USD"
+  },
+  {
+    "ask": "0.190792138",
+    "bid": "0.1902500203",
+    "currency": "USD",
+    "pair": "DAR-USD"
+  },
+  {
+    "ask": "26.6756283701",
+    "bid": "26.6059666236",
+    "currency": "USD",
+    "pair": "DASHUSD"
+  },
+  {
+    "ask": "11.9740523162",
+    "bid": "11.8893090024",
+    "currency": "USD",
+    "pair": "DCRUSD"
+  },
+  {
+    "ask": "0.0075759047",
+    "bid": "0.0074630931",
+    "currency": "USD",
+    "pair": "DEGEN-USD"
+  },
+  {
+    "ask": "0.0072768794",
+    "bid": "0.0072399875",
+    "currency": "USD",
+    "pair": "DGBUSD"
+  },
+  {
+    "ask": "0.145254253",
+    "bid": "0.1452403291",
+    "currency": "USD",
+    "pair": "DKKUSD"
+  },
+  {
+    "ask": "0.0428382079",
+    "bid": "0.0418721927",
+    "currency": "USD",
+    "pair": "DNT-USD"
+  },
+  {
+    "ask": "0.1273743024",
+    "bid": "0.1271324473",
+    "currency": "USD",
+    "pair": "DOGEUSD"
+  },
+  {
+    "ask": "5.7599973372",
+    "bid": "5.7463471309",
+    "currency": "USD",
+    "pair": "DOT-USD"
+  },
+  {
+    "ask": "1.299306629",
+    "bid": "1.295232358",
+    "currency": "USD",
+    "pair": "DYDX-USD"
+  },
+  {
+    "ask": "33.3730029836",
+    "bid": "33.2707962614",
+    "currency": "USD",
+    "pair": "EGLD-USD"
+  },
+  {
+    "ask": "27.0186967972",
+    "bid": "26.9511825112",
+    "currency": "USD",
+    "pair": "ENS-USD"
+  },
+  {
+    "ask": "0.5937009247",
+    "bid": "0.5921418788",
+    "currency": "USD",
+    "pair": "EOSUSD"
+  },
+  {
+    "ask": "3329.7753289921",
+    "bid": "3314.4451977026",
+    "currency": "USD",
+    "pair": "ETHUSD"
+  },
+  {
+    "ask": "4.562920243",
+    "bid": "4.4352629676",
+    "currency": "USD",
+    "pair": "EUL-USD"
+  },
+  {
+    "ask": "1.0840386344",
+    "bid": "1.08392",
+    "currency": "USD",
+    "pair": "EURUSD"
+  },
+  {
+    "ask": "1.0849470965",
+    "bid": "1.0834003277",
+    "currency": "USD",
+    "pair": "EUROC-USD"
+  },
+  {
+    "ask": "0.1366110986",
+    "bid": "0.1343292459",
+    "currency": "USD",
+    "pair": "EVR-USD"
+  },
+  {
+    "ask": "1.8466827647",
+    "bid": "1.835310815",
+    "currency": "USD",
+    "pair": "EWT-USD"
+  },
+  {
+    "ask": "0.0338758351",
+    "bid": "0.0324086393",
+    "currency": "USD",
+    "pair": "EXFI-USD"
+  },
+  {
+    "ask": "45.3974959947",
+    "bid": "45.2337276432",
+    "currency": "USD",
+    "pair": "FARM-USD"
+  },
+  {
+    "ask": "1.2175575772",
+    "bid": "1.2136164417",
+    "currency": "USD",
+    "pair": "FET-USD"
+  },
+  {
+    "ask": "4.2790620114",
+    "bid": "4.2681126258",
+    "currency": "USD",
+    "pair": "FIL-USD"
+  },
+  {
+    "ask": "0.3485871356",
+    "bid": "0.3461862854",
+    "currency": "USD",
+    "pair": "FIS-USD"
+  },
+  {
+    "ask": "0.00017967817499",
+    "bid": "0.00017796137314",
+    "currency": "USD",
+    "pair": "FLOKI-USD"
+  },
+  {
+    "ask": "0.6484984444",
+    "bid": "0.6452334736",
+    "currency": "USD",
+    "pair": "FLOW-USD"
+  },
+  {
+    "ask": "0.0189569547",
+    "bid": "0.0188862779",
+    "currency": "USD",
+    "pair": "FLR-USD"
+  },
+  {
+    "ask": "0.6672724844",
+    "bid": "0.6617387393",
+    "currency": "USD",
+    "pair": "FLUX-USD"
+  },
+  {
+    "ask": "0.0559659269",
+    "bid": "0.0549825461",
+    "currency": "USD",
+    "pair": "FOX-USD"
+  },
+  {
+    "ask": "1.0030881293",
+    "bid": "0.9831926983",
+    "currency": "USD",
+    "pair": "FRAX-USD"
+  },
+  {
+    "ask": "0.456844649",
+    "bid": "0.4553901092",
+    "currency": "USD",
+    "pair": "FTM-USD"
+  },
+  {
+    "ask": "2.2243391409",
+    "bid": "2.2164728793",
+    "currency": "USD",
+    "pair": "FXS-USD"
+  },
+  {
+    "ask": "3.3534258749",
+    "bid": "3.2941940762",
+    "currency": "USD",
+    "pair": "GAL-USD"
+  },
+  {
+    "ask": "0.0235315175",
+    "bid": "0.0232355933",
+    "currency": "USD",
+    "pair": "GALA-USD"
+  },
+  {
+    "ask": "1.2893730849",
+    "bid": "1.2882655044",
+    "currency": "USD",
+    "pair": "GBPUSD"
+  },
+  {
+    "ask": "2.7850341112",
+    "bid": "2.7632656304",
+    "currency": "USD",
+    "pair": "GFI-USD"
+  },
+  {
+    "ask": "1.043302001",
+    "bid": "1.0368910748",
+    "currency": "USD",
+    "pair": "GHST-USD"
+  },
+  {
+    "ask": "0.3396731483",
+    "bid": "0.3371409656",
+    "currency": "USD",
+    "pair": "GLM-USD"
+  },
+  {
+    "ask": "0.1968926797",
+    "bid": "0.1918557831",
+    "currency": "USD",
+    "pair": "GLMR-USD"
+  },
+  {
+    "ask": "29.6511348086",
+    "bid": "29.3975229615",
+    "currency": "USD",
+    "pair": "GMX-USD"
+  },
+  {
+    "ask": "232.3942315899",
+    "bid": "228.9314247786",
+    "currency": "USD",
+    "pair": "GNO-USD"
+  },
+  {
+    "ask": "3.3267070731",
+    "bid": "3.3114926161",
+    "currency": "USD",
+    "pair": "GNS-USD"
+  },
+  {
+    "ask": "0.2815629537",
+    "bid": "0.2797593546",
+    "currency": "USD",
+    "pair": "GODS-USD"
+  },
+  {
+    "ask": "0.1927866331",
+    "bid": "0.1922051774",
+    "currency": "USD",
+    "pair": "GRT-USD"
+  },
+  {
+    "ask": "0.9437264757",
+    "bid": "0.9267909336",
+    "currency": "USD",
+    "pair": "GTC-USD"
+  },
+  {
+    "ask": "1.0161772158",
+    "bid": "0.9829519507",
+    "currency": "USD",
+    "pair": "GUSD-USD"
+  },
+  {
+    "ask": "13.4617274168",
+    "bid": "13.1891747777",
+    "currency": "USD",
+    "pair": "HAPI-USD"
+  },
+  {
+    "ask": "0.0668099615",
+    "bid": "0.066267842",
+    "currency": "USD",
+    "pair": "HBAR-USD"
+  },
+  {
+    "ask": "0.2020591916",
+    "bid": "0.2013351772",
+    "currency": "USD",
+    "pair": "HFT-USD"
+  },
+  {
+    "ask": "1.6894517191",
+    "bid": "1.6846042339",
+    "currency": "USD",
+    "pair": "HIGH-USD"
+  },
+  {
+    "ask": "0.1280698175",
+    "bid": "0.1280049134",
+    "currency": "USD",
+    "pair": "HKDUSD"
+  },
+  {
+    "ask": "4.7668507927",
+    "bid": "4.7453946218",
+    "currency": "USD",
+    "pair": "HNT-USD"
+  },
+  {
+    "ask": "0.0350298417",
+    "bid": "0.0321386519",
+    "currency": "USD",
+    "pair": "HOP-USD"
+  },
+  {
+    "ask": "0.0027545553",
+    "bid": "0.0027522052",
+    "currency": "USD",
+    "pair": "HUFUSD"
+  },
+  {
+    "ask": "9.7963636502",
+    "bid": "9.7184865927",
+    "currency": "USD",
+    "pair": "ICP-USD"
+  },
+  {
+    "ask": "0.1556300688",
+    "bid": "0.1549727995",
+    "currency": "USD",
+    "pair": "ICX-USD"
+  },
+  {
+    "ask": "0.2746498214",
+    "bid": "0.2733360667",
+    "currency": "USD",
+    "pair": "ILSUSD"
+  },
+  {
+    "ask": "69.9209980669",
+    "bid": "69.6944658468",
+    "currency": "USD",
+    "pair": "ILV-USD"
+  },
+  {
+    "ask": "1.4788070842",
+    "bid": "1.4739917102",
+    "currency": "USD",
+    "pair": "IMX-USD"
+  },
+  {
+    "ask": "23.9545313707",
+    "bid": "23.8807815188",
+    "currency": "USD",
+    "pair": "INJ-USD"
+  },
+  {
+    "ask": "0.1636067706",
+    "bid": "0.1620609628",
+    "currency": "USD",
+    "pair": "IOTAUSD"
+  },
+  {
+    "ask": "0.0016855075",
+    "bid": "0.001601604",
+    "currency": "USD",
+    "pair": "JAM-USD"
+  },
+  {
+    "ask": "0.3696960793",
+    "bid": "0.3683682017",
+    "currency": "USD",
+    "pair": "JOE-USD"
+  },
+  {
+    "ask": "0.0065255755",
+    "bid": "0.0065234976",
+    "currency": "USD",
+    "pair": "JPYUSD"
+  },
+  {
+    "ask": "2.7371023902",
+    "bid": "2.7204288049",
+    "currency": "USD",
+    "pair": "JTO-USD"
+  },
+  {
+    "ask": "1.0036866192",
+    "bid": "0.9974198914",
+    "currency": "USD",
+    "pair": "JUP-USD"
+  },
+  {
+    "ask": "0.1779418507",
+    "bid": "0.1776469793",
+    "currency": "USD",
+    "pair": "KAS-USD"
+  },
+  {
+    "ask": "0.4013033617",
+    "bid": "0.4000772135",
+    "currency": "USD",
+    "pair": "KAVA-USD"
+  },
+  {
+    "ask": "0.5811563558",
+    "bid": "0.5774957399",
+    "currency": "USD",
+    "pair": "KDA-USD"
+  },
+  {
+    "ask": "0.1381537597",
+    "bid": "0.1367012002",
+    "currency": "USD",
+    "pair": "KLAY-USD"
+  },
+  {
+    "ask": "0.5354238953",
+    "bid": "0.5253723963",
+    "currency": "USD",
+    "pair": "KNC-USD"
+  },
+  {
+    "ask": "53.4710339493",
+    "bid": "53.1627337006",
+    "currency": "USD",
+    "pair": "KP3R-USD"
+  },
+  {
+    "ask": "20.9327690574",
+    "bid": "20.8767453513",
+    "currency": "USD",
+    "pair": "KSM-USD"
+  },
+  {
+    "ask": "1.6328825969",
+    "bid": "1.6192190694",
+    "currency": "USD",
+    "pair": "LDO-USD"
+  },
+  {
+    "ask": "13.4000705795",
+    "bid": "13.3719651091",
+    "currency": "USD",
+    "pair": "LINKUSD"
+  },
+  {
+    "ask": "0.7064499154",
+    "bid": "0.6988868",
+    "currency": "USD",
+    "pair": "LIT-USD"
+  },
+  {
+    "ask": "0.1776782522",
+    "bid": "0.1768012599",
+    "currency": "USD",
+    "pair": "LOKA-USD"
+  },
+  {
+    "ask": "0.0613325937",
+    "bid": "0.0611055277",
+    "currency": "USD",
+    "pair": "LOOM-USD"
+  },
+  {
+    "ask": "15.0794358081",
+    "bid": "15.0372877886",
+    "currency": "USD",
+    "pair": "LPT-USD"
+  },
+  {
+    "ask": "0.7836147469",
+    "bid": "0.7800572914",
+    "currency": "USD",
+    "pair": "LQTY-USD"
+  },
+  {
+    "ask": "0.1546460288",
+    "bid": "0.1539893026",
+    "currency": "USD",
+    "pair": "LRC-USD"
+  },
+  {
+    "ask": "1.0072545786",
+    "bid": "1.0023202385",
+    "currency": "USD",
+    "pair": "LSK-USD"
+  },
+  {
+    "ask": "71.533608092",
+    "bid": "71.4179929324",
+    "currency": "USD",
+    "pair": "LTCUSD"
+  },
+  {
+    "ask": "0.4117062146",
+    "bid": "0.4073680098",
+    "currency": "USD",
+    "pair": "LUNA2-USD"
+  },
+  {
+    "ask": "0.00008566337499",
+    "bid": "0.00008272756401",
+    "currency": "USD",
+    "pair": "LUNC-USD"
+  },
+  {
+    "ask": "1.8231475904",
+    "bid": "1.7491057983",
+    "currency": "USD",
+    "pair": "LYX-USD"
+  },
+  {
+    "ask": "0.475678605",
+    "bid": "0.4742283777",
+    "currency": "USD",
+    "pair": "MAGIC-USD"
+  },
+  {
+    "ask": "0.3284658646",
+    "bid": "0.3276077046",
+    "currency": "USD",
+    "pair": "MANA-USD"
+  },
+  {
+    "ask": "2.2958020485",
+    "bid": "2.2887407135",
+    "currency": "USD",
+    "pair": "MASK-USD"
+  },
+  {
+    "ask": "0.519202173",
+    "bid": "0.5182211847",
+    "currency": "USD",
+    "pair": "MATIC-USD"
+  },
+  {
+    "ask": "0.2023589692",
+    "bid": "0.2006072153",
+    "currency": "USD",
+    "pair": "MAV-USD"
+  },
+  {
+    "ask": "0.0420818045",
+    "bid": "0.0417814974",
+    "currency": "USD",
+    "pair": "MDT-USD"
+  },
+  {
+    "ask": "0.0152865526",
+    "bid": "0.0151706667",
+    "currency": "USD",
+    "pair": "MEME-USD"
+  },
+  {
+    "ask": "47.9504923504",
+    "bid": "47.6973323558",
+    "currency": "USD",
+    "pair": "METIS-USD"
+  },
+  {
+    "ask": "0.5121289595",
+    "bid": "0.5049404465",
+    "currency": "USD",
+    "pair": "MINA-USD"
+  },
+  {
+    "ask": "2726.0212799247",
+    "bid": "2719.211628233",
+    "currency": "USD",
+    "pair": "MKR-USD"
+  },
+  {
+    "ask": "0.8458453131",
+    "bid": "0.8357510002",
+    "currency": "USD",
+    "pair": "MNT-USD"
+  },
+  {
+    "ask": "10.7373023409",
+    "bid": "10.6993205084",
+    "currency": "USD",
+    "pair": "MOVR-USD"
+  },
+  {
+    "ask": "1.0751303046",
+    "bid": "1.0711259271",
+    "currency": "USD",
+    "pair": "MTL-USD"
+  },
+  {
+    "ask": "0.0543029966",
+    "bid": "0.0542848085",
+    "currency": "USD",
+    "pair": "MXNUSD"
+  },
+  {
+    "ask": "0.1492731544",
+    "bid": "0.1480684161",
+    "currency": "USD",
+    "pair": "MYRO-USD"
+  },
+  {
+    "ask": "0.2975721895",
+    "bid": "0.2888684298",
+    "currency": "USD",
+    "pair": "MYTH-USD"
+  },
+  {
+    "ask": "0.9380476259",
+    "bid": "0.9233732053",
+    "currency": "USD",
+    "pair": "NANOUSD"
+  },
+  {
+    "ask": "5.6639558041",
+    "bid": "5.6525746816",
+    "currency": "USD",
+    "pair": "NEAR-USD"
+  },
+  {
+    "ask": "11.4518171904",
+    "bid": "11.3527715374",
+    "currency": "USD",
+    "pair": "NEOUSD"
+  },
+  {
+    "ask": "13.6453305458",
+    "bid": "13.5260699327",
+    "currency": "USD",
+    "pair": "NMR-USD"
+  },
+  {
+    "ask": "0.0906232979",
+    "bid": "0.0905834844",
+    "currency": "USD",
+    "pair": "NOKUSD"
+  },
+  {
+    "ask": "0.0504991405",
+    "bid": "0.048040287",
+    "currency": "USD",
+    "pair": "NUM-USD"
+  },
+  {
+    "ask": "0.0919072576",
+    "bid": "0.0876219541",
+    "currency": "USD",
+    "pair": "NXRA-USD"
+  },
+  {
+    "ask": "0.591914215",
+    "bid": "0.59186",
+    "currency": "USD",
+    "pair": "NZDUSD"
+  },
+  {
+    "ask": "0.5274294321",
+    "bid": "0.5246496656",
+    "currency": "USD",
+    "pair": "OCEAN-USD"
+  },
+  {
+    "ask": "0.1710926361",
+    "bid": "0.1564611697",
+    "currency": "USD",
+    "pair": "OCT-USD"
+  },
+  {
+    "ask": "1.3027583696",
+    "bid": "1.279198841",
+    "currency": "USD",
+    "pair": "OLAS-USD"
+  },
+  {
+    "ask": "0.9531233028",
+    "bid": "0.9508590138",
+    "currency": "USD",
+    "pair": "ONDO-USD"
+  },
+  {
+    "ask": "0.0136958406",
+    "bid": "0.0135652256",
+    "currency": "USD",
+    "pair": "ONE-USD"
+  },
+  {
+    "ask": "0.1972819084",
+    "bid": "0.1964722624",
+    "currency": "USD",
+    "pair": "ONT-USD"
+  },
+  {
+    "ask": "1.743771324",
+    "bid": "1.7346999706",
+    "currency": "USD",
+    "pair": "OP-USD"
+  },
+  {
+    "ask": "0.0107891923",
+    "bid": "0.0105725244",
+    "currency": "USD",
+    "pair": "OPEN-USD"
+  },
+  {
+    "ask": "7.0732496197",
+    "bid": "7.0233576114",
+    "currency": "USD",
+    "pair": "ORAI-USD"
+  },
+  {
+    "ask": "0.0245504204",
+    "bid": "0.0244364953",
+    "currency": "USD",
+    "pair": "ORBS-USD"
+  },
+  {
+    "ask": "2.6136537953",
+    "bid": "2.6018167761",
+    "currency": "USD",
+    "pair": "ORCA-USD"
+  },
+  {
+    "ask": "37.6197786687",
+    "bid": "37.5471967816",
+    "currency": "USD",
+    "pair": "ORDI-USD"
+  },
+  {
+    "ask": "1.391626996",
+    "bid": "1.3835654801",
+    "currency": "USD",
+    "pair": "ORN-USD"
+  },
+  {
+    "ask": "0.0795125345",
+    "bid": "0.0791189934",
+    "currency": "USD",
+    "pair": "OXT-USD"
+  },
+  {
+    "ask": "2392.3434488283",
+    "bid": "2383.710419023",
+    "currency": "USD",
+    "pair": "PAXG-USD"
+  },
+  {
+    "ask": "3.7487368917",
+    "bid": "3.7369455611",
+    "currency": "USD",
+    "pair": "PENDLE-USD"
+  },
+  {
+    "ask": "0.00001213349264",
+    "bid": "0.00001203076485",
+    "currency": "USD",
+    "pair": "PEPE-USD"
+  },
+  {
+    "ask": "0.6234682156",
+    "bid": "0.6214670419",
+    "currency": "USD",
+    "pair": "PERP-USD"
+  },
+  {
+    "ask": "0.1224456357",
+    "bid": "0.1215792127",
+    "currency": "USD",
+    "pair": "PHA-USD"
+  },
+  {
+    "ask": "1.0860470896",
+    "bid": "1.0148639305",
+    "currency": "USD",
+    "pair": "PICKLE-USD"
+  },
+  {
+    "ask": "0.2522437077",
+    "bid": "0.2520987218",
+    "currency": "USD",
+    "pair": "PLNUSD"
+  },
+  {
+    "ask": "0.1101162546",
+    "bid": "0.1087024529",
+    "currency": "USD",
+    "pair": "POLIS-USD"
+  },
+  {
+    "ask": "0.3116605777",
+    "bid": "0.3039514483",
+    "currency": "USD",
+    "pair": "POLS-USD"
+  },
+  {
+    "ask": "0.2139702321",
+    "bid": "0.2131778976",
+    "currency": "USD",
+    "pair": "POWR-USD"
+  },
+  {
+    "ask": "0.0783248112",
+    "bid": "0.0775109254",
+    "currency": "USD",
+    "pair": "PRQ-USD"
+  },
+  {
+    "ask": "3.1850114004",
+    "bid": "3.1710528609",
+    "currency": "USD",
+    "pair": "PYR-USD"
+  },
+  {
+    "ask": "0.3423981305",
+    "bid": "0.339989254",
+    "currency": "USD",
+    "pair": "PYTH-USD"
+  },
+  {
+    "ask": "1.0003076552",
+    "bid": "0.9987623552",
+    "currency": "USD",
+    "pair": "PYUSD-USD"
+  },
+  {
+    "ask": "71.6080848167",
+    "bid": "71.2570272756",
+    "currency": "USD",
+    "pair": "QNT-USD"
+  },
+  {
+    "ask": "2.6037197514",
+    "bid": "2.5975989606",
+    "currency": "USD",
+    "pair": "QTUM-USD"
+  },
+  {
+    "ask": "1.179419852",
+    "bid": "1.1747798797",
+    "currency": "USD",
+    "pair": "RAD-USD"
+  },
+  {
+    "ask": "0.0833313995",
+    "bid": "0.0829381436",
+    "currency": "USD",
+    "pair": "RARE-USD"
+  },
+  {
+    "ask": "1.9905913153",
+    "bid": "1.9487937991",
+    "currency": "USD",
+    "pair": "RARI-USD"
+  },
+  {
+    "ask": "2.316573859",
+    "bid": "2.2930326123",
+    "currency": "USD",
+    "pair": "RAY-USD"
+  },
+  {
+    "ask": "0.0966921653",
+    "bid": "0.096148315",
+    "currency": "USD",
+    "pair": "RDNT-USD"
+  },
+  {
+    "ask": "0.0478311111",
+    "bid": "0.0476720666",
+    "currency": "USD",
+    "pair": "REN-USD"
+  },
+  {
+    "ask": "6.2447516076",
+    "bid": "6.2280036538",
+    "currency": "USD",
+    "pair": "RNDR-USD"
+  },
+  {
+    "ask": "0.2180752598",
+    "bid": "0.2179030827",
+    "currency": "USD",
+    "pair": "RONUSD"
+  },
+  {
+    "ask": "0.037925652",
+    "bid": "0.037478023",
+    "currency": "USD",
+    "pair": "ROOT-USD"
+  },
+  {
+    "ask": "0.0876563819",
+    "bid": "0.0874511246",
+    "currency": "USD",
+    "pair": "ROSE-USD"
+  },
+  {
+    "ask": "16.4473370815",
+    "bid": "15.812912425",
+    "currency": "USD",
+    "pair": "RPL-USD"
+  },
+  {
+    "ask": "0.0052367943",
+    "bid": "0.0052196763",
+    "currency": "USD",
+    "pair": "RSR-USD"
+  },
+  {
+    "ask": "4.5196668665",
+    "bid": "4.5091404046",
+    "currency": "USD",
+    "pair": "RUNE-USD"
+  },
+  {
+    "ask": "0.01869648",
+    "bid": "0.0185489907",
+    "currency": "USD",
+    "pair": "RVN-USD"
+  },
+  {
+    "ask": "0.318455005",
+    "bid": "0.3177024459",
+    "currency": "USD",
+    "pair": "SAND-USD"
+  },
+  {
+    "ask": "0.5417001376",
+    "bid": "0.535581498",
+    "currency": "USD",
+    "pair": "SD-USD"
+  },
+  {
+    "ask": "2.8431617324",
+    "bid": "2.8182099361",
+    "currency": "USD",
+    "pair": "SEAM-USD"
+  },
+  {
+    "ask": "0.3533962495",
+    "bid": "0.3509052921",
+    "currency": "USD",
+    "pair": "SEI-USD"
+  },
+  {
+    "ask": "0.0927381399",
+    "bid": "0.0927036653",
+    "currency": "USD",
+    "pair": "SEKUSD"
+  },
+  {
+    "ask": "0.0083315273",
+    "bid": "0.0082779939",
+    "currency": "USD",
+    "pair": "SGB-USD"
+  },
+  {
+    "ask": "0.7443034733",
+    "bid": "0.7442248154",
+    "currency": "USD",
+    "pair": "SGDUSD"
+  },
+  {
+    "ask": "0.00001680387083",
+    "bid": "0.00001663549267",
+    "currency": "USD",
+    "pair": "SHIB-USD"
+  },
+  {
+    "ask": "0.0076197607",
+    "bid": "0.0068741996",
+    "currency": "USD",
+    "pair": "SHPING-USD"
+  },
+  {
+    "ask": "0.0454159087",
+    "bid": "0.0450813206",
+    "currency": "USD",
+    "pair": "SKL-USD"
+  },
+  {
+    "ask": "0.5843145594",
+    "bid": "0.5747297948",
+    "currency": "USD",
+    "pair": "SMT-USD"
+  },
+  {
+    "ask": "1.6829182916",
+    "bid": "1.6724632916",
+    "currency": "USD",
+    "pair": "SNX-USD"
+  },
+  {
+    "ask": "178.5308032393",
+    "bid": "178.3380597822",
+    "currency": "USD",
+    "pair": "SOL-USD"
+  },
+  {
+    "ask": "0.1061130928",
+    "bid": "0.1056860437",
+    "currency": "USD",
+    "pair": "SOLO-USD"
+  },
+  {
+    "ask": "0.0006566396",
+    "bid": "0.0006373385",
+    "currency": "USD",
+    "pair": "SPELL-USD"
+  },
+  {
+    "ask": "0.0303624034",
+    "bid": "0.0296261258",
+    "currency": "USD",
+    "pair": "SRM-USD"
+  },
+  {
+    "ask": "0.3781757359",
+    "bid": "0.3769400172",
+    "currency": "USD",
+    "pair": "STORJ-USD"
+  },
+  {
+    "ask": "0.0076853968",
+    "bid": "0.0076599232",
+    "currency": "USD",
+    "pair": "STORMUSD"
+  },
+  {
+    "ask": "0.5352193779",
+    "bid": "0.5334724624",
+    "currency": "USD",
+    "pair": "STRK-USD"
+  },
+  {
+    "ask": "1.741646461",
+    "bid": "1.7378282743",
+    "currency": "USD",
+    "pair": "STX-USD"
+  },
+  {
+    "ask": "0.7706304966",
+    "bid": "0.7677865638",
+    "currency": "USD",
+    "pair": "SUI-USD"
+  },
+  {
+    "ask": "0.0735125077",
+    "bid": "0.0730595991",
+    "currency": "USD",
+    "pair": "SUKU-USD"
+  },
+  {
+    "ask": "0.7049926445",
+    "bid": "0.7032516288",
+    "currency": "USD",
+    "pair": "SUPER-USD"
+  },
+  {
+    "ask": "0.0073448989",
+    "bid": "0.0073149361",
+    "currency": "USD",
+    "pair": "SWEAT-USD"
+  },
+  {
+    "ask": "0.5035382937",
+    "bid": "0.4995895482",
+    "currency": "USD",
+    "pair": "SYN-USD"
+  },
+  {
+    "ask": "333.5205192033",
+    "bid": "331.2265915708",
+    "currency": "USD",
+    "pair": "TAO-USD"
+  },
+  {
+    "ask": "0.0679637197",
+    "bid": "0.0673731398",
+    "currency": "USD",
+    "pair": "TFUEL-USD"
+  },
+  {
+    "ask": "1.4595605569",
+    "bid": "1.4559196917",
+    "currency": "USD",
+    "pair": "THETA-USD"
+  },
+  {
+    "ask": "5.921423007",
+    "bid": "5.8680576632",
+    "currency": "USD",
+    "pair": "TIA-USD"
+  },
+  {
+    "ask": "0.1937658356",
+    "bid": "0.1907896441",
+    "currency": "USD",
+    "pair": "TLOS-USD"
+  },
+  {
+    "ask": "0.4851482131",
+    "bid": "0.4812496521",
+    "currency": "USD",
+    "pair": "TNSR-USD"
+  },
+  {
+    "ask": "0.0702270657",
+    "bid": "0.0696152855",
+    "currency": "USD",
+    "pair": "TOKEN-USD"
+  },
+  {
+    "ask": "6.8502807661",
+    "bid": "6.8427109254",
+    "currency": "USD",
+    "pair": "TON-USD"
+  },
+  {
+    "ask": "0.6659963819",
+    "bid": "0.6618389175",
+    "currency": "USD",
+    "pair": "TRAC-USD"
+  },
+  {
+    "ask": "72.8808205918",
+    "bid": "71.8680805111",
+    "currency": "USD",
+    "pair": "TRB-USD"
+  },
+  {
+    "ask": "0.1232805945",
+    "bid": "0.1228827667",
+    "currency": "USD",
+    "pair": "TRU-USD"
+  },
+  {
+    "ask": "0.1346762668",
+    "bid": "0.134416114",
+    "currency": "USD",
+    "pair": "TRXUSD"
+  },
+  {
+    "ask": "0.00586312399424",
+    "bid": "0.00577136616171",
+    "currency": "USD",
+    "pair": "TURBO-USD"
+  },
+  {
+    "ask": "0.9989576867",
+    "bid": "0.9983098971",
+    "currency": "USD",
+    "pair": "TUSD-USD"
+  },
+  {
+    "ask": "2.2038472151",
+    "bid": "2.1943044105",
+    "currency": "USD",
+    "pair": "UMA-USD"
+  },
+  {
+    "ask": "3.8174656964",
+    "bid": "3.8037584932",
+    "currency": "USD",
+    "pair": "UNFI-USD"
+  },
+  {
+    "ask": "7.4298082866",
+    "bid": "7.4139471575",
+    "currency": "USD",
+    "pair": "UNI-USD"
+  },
+  {
+    "ask": "0.1027190463",
+    "bid": "0.1012722515",
+    "currency": "USD",
+    "pair": "UOS-USD"
+  },
+  {
+    "ask": "3.0573678061",
+    "bid": "2.9309258868",
+    "currency": "USD",
+    "pair": "UPCO2-USD"
+  },
+  {
+    "ask": "0.001",
+    "bid": "0.0002547914",
+    "currency": "USD",
+    "pair": "UPTUSD"
+  },
+  {
+    "ask": "10.33902893826169009034",
+    "bid": "9.80620030845893380272",
+    "currency": "$ADS",
+    "pair": "USD-$ADS"
+  },
+  {
+    "ask": "2.6543186496092077575",
+    "bid": "2.63593851081075431766",
+    "currency": "1INCH",
+    "pair": "USD-1INCH"
+  },
+  {
+    "ask": "0.0111042576246130401",
+    "bid": "0.01107617912498833615",
+    "currency": "AAVE",
+    "pair": "USD-AAVE"
+  },
+  {
+    "ask": "40.81098445603467333889",
+    "bid": "40.70295534308630956666",
+    "currency": "ACH",
+    "pair": "USD-ACH"
+  },
+  {
+    "ask": "2.46597567047837268946",
+    "bid": "2.4584081886974786286",
+    "currency": "ADA",
+    "pair": "USDADA"
+  },
+  {
+    "ask": "10.5337642252455281922",
+    "bid": "10.41318717610126225562",
+    "currency": "AERGO",
+    "pair": "USD-AERGO"
+  },
+  {
+    "ask": "1.25021800567079809046",
+    "bid": "1.23703439326179290629",
+    "currency": "AERO",
+    "pair": "USD-AERO"
+  },
+  {
+    "ask": "1.07449353257104589517",
+    "bid": "1.07093631509236651583",
+    "currency": "AGLD",
+    "pair": "USD-AGLD"
+  },
+  {
+    "ask": "1.98872118654981325461",
+    "bid": "1.97936633945231239001",
+    "currency": "AIOZ",
+    "pair": "USD-AIOZ"
+  },
+  {
+    "ask": "0.06307098249580635634",
+    "bid": "0.06271624379886286905",
+    "currency": "ALCX",
+    "pair": "USD-ALCX"
+  },
+  {
+    "ask": "7.19722228675731539348",
+    "bid": "7.17049899650228938759",
+    "currency": "ALGO",
+    "pair": "USD-ALGO"
+  },
+  {
+    "ask": "0.88597889279059177738",
+    "bid": "0.88144883547642721194",
+    "currency": "ALICE",
+    "pair": "USD-ALICE"
+  },
+  {
+    "ask": "0.56174424723749537297",
+    "bid": "0.55603245804599487726",
+    "currency": "ALPH",
+    "pair": "USD-ALPH"
+  },
+  {
+    "ask": "14.37450416046304992739",
+    "bid": "14.28006203316067453129",
+    "currency": "ALPHA",
+    "pair": "USD-ALPHA"
+  },
+  {
+    "ask": "241.45437434680555379831",
+    "bid": "239.87440368122773860588",
+    "currency": "AMP",
+    "pair": "USD-AMP"
+  },
+  {
+    "ask": "33.63537202278774927906",
+    "bid": "33.51817186179169302856",
+    "currency": "ANKR",
+    "pair": "USD-ANKR"
+  },
+  {
+    "ask": "1.2838103466439232988",
+    "bid": "1.27918579206232658188",
+    "currency": "APE",
+    "pair": "USD-APE"
+  },
+  {
+    "ask": "0.5392439403202588441",
+    "bid": "0.53750974203149016787",
+    "currency": "API3",
+    "pair": "USD-API3"
+  },
+  {
+    "ask": "0.14822482183787405463",
+    "bid": "0.14679750194337454574",
+    "currency": "APT",
+    "pair": "USD-APT"
+  },
+  {
+    "ask": "0.03253786021641994265",
+    "bid": "0.03245366221084946644",
+    "currency": "AR",
+    "pair": "USD-AR"
+  },
+  {
+    "ask": "1.360142384438098478",
+    "bid": "1.35700490850197503013",
+    "currency": "ARB",
+    "pair": "USD-ARB"
+  },
+  {
+    "ask": "49.95612428538201325849",
+    "bid": "48.13444952950139954522",
+    "currency": "ASM",
+    "pair": "USD-ASM"
+  },
+  {
+    "ask": "13.92905892125781948291",
+    "bid": "13.88920128017434881028",
+    "currency": "ASTR",
+    "pair": "USD-ASTR"
+  },
+  {
+    "ask": "539.14811040178988546284",
+    "bid": "535.75971048402460980084",
+    "currency": "ATLAS",
+    "pair": "USD-ATLAS"
+  },
+  {
+    "ask": "0.16597038453114872776",
+    "bid": "0.16559222873243638971",
+    "currency": "ATOM",
+    "pair": "USDATOM"
+  },
+  {
+    "ask": "1.52348100001845560119",
+    "bid": "1.52320604408158291572",
+    "currency": "AUD",
+    "pair": "USDAUD"
+  },
+  {
+    "ask": "7.35154668536425723611",
+    "bid": "7.19356431049227134528",
+    "currency": "AUDIO",
+    "pair": "USD-AUDIO"
+  },
+  {
+    "ask": "6.09412296870510383433",
+    "bid": "6.02544445895692827199",
+    "currency": "AURORA",
+    "pair": "USD-AURORA"
+  },
+  {
+    "ask": "0.03523719540188764158",
+    "bid": "0.03516548342752251536",
+    "currency": "AVAX",
+    "pair": "USD-AVAX"
+  },
+  {
+    "ask": "1.53998508124052697428",
+    "bid": "1.52644768409790526274",
+    "currency": "AXL",
+    "pair": "USD-AXL"
+  },
+  {
+    "ask": "0.17036643702881940211",
+    "bid": "0.16871276778765206703",
+    "currency": "AXS",
+    "pair": "USD-AXS"
+  },
+  {
+    "ask": "2.26980596487216829254",
+    "bid": "2.24890101391166973766",
+    "currency": "AZERO",
+    "pair": "USD-AZERO"
+  },
+  {
+    "ask": "0.31924972505069966494",
+    "bid": "0.31839277038134460219",
+    "currency": "BADGER",
+    "pair": "USD-BADGER"
+  },
+  {
+    "ask": "0.38125128300397387271",
+    "bid": "0.37818665328965410004",
+    "currency": "BAL",
+    "pair": "USD-BAL"
+  },
+  {
+    "ask": "0.73822146718679322989",
+    "bid": "0.73508601971346821964",
+    "currency": "BAND",
+    "pair": "USD-BAND"
+  },
+  {
+    "ask": "5.19042170167632921627",
+    "bid": "5.17279940211046449808",
+    "currency": "BAT",
+    "pair": "USDBAT"
+  },
+  {
+    "ask": "0.00275672888733084444",
+    "bid": "0.00275131104917449376",
+    "currency": "BCH",
+    "pair": "USDBCH"
+  },
+  {
+    "ask": "58.4118850522327253801",
+    "bid": "58.16624164303066895941",
+    "currency": "BEAM",
+    "pair": "USD-BEAM"
+  },
+  {
+    "ask": "3.34496477152845141722",
+    "bid": "3.33384933764354890144",
+    "currency": "BICO",
+    "pair": "USD-BICO"
+  },
+  {
+    "ask": "9.38124642084341240377",
+    "bid": "9.26762147702363266923",
+    "currency": "BIGTIME",
+    "pair": "USD-BIGTIME"
+  },
+  {
+    "ask": "5.27653233513231338826",
+    "bid": "5.25721331461611181739",
+    "currency": "BLUR",
+    "pair": "USD-BLUR"
+  },
+  {
+    "ask": "5.90480909340931054344",
+    "bid": "5.82332880737036318979",
+    "currency": "BLZ",
+    "pair": "USD-BLZ"
+  },
+  {
+    "ask": "4.12491926625513700121",
+    "bid": "4.10820877299109741299",
+    "currency": "BOBA",
+    "pair": "USD-BOBA"
+  },
+  {
+    "ask": "117.02169625546603954896",
+    "bid": "116.17825811033158727092",
+    "currency": "BOME",
+    "pair": "USD-BOME"
+  },
+  {
+    "ask": "2.09018206438276740644",
+    "bid": "2.06548101899665834521",
+    "currency": "BONE",
+    "pair": "USD-BONE"
+  },
+  {
+    "ask": "37174.76112827496680842159",
+    "bid": "36414.84510371190954628219",
+    "currency": "BONK",
+    "pair": "USD-BONK"
+  },
+  {
+    "ask": "8.16903147533954221933",
+    "bid": "8.06311078734460219559",
+    "currency": "BRETT",
+    "pair": "USD-BRETT"
+  },
+  {
+    "ask": "0.00001529253731626525",
+    "bid": "0.00001526627692350553",
+    "currency": "BTC",
+    "pair": "USDBTC"
+  },
+  {
+    "ask": "0.04164228446105666607",
+    "bid": "0.04025201423959990987",
+    "currency": "BTG",
+    "pair": "USDBTG"
+  },
+  {
+    "ask": "6.55142051054018508119",
+    "bid": "6.49156369073758758509",
+    "currency": "C98",
+    "pair": "USD-C98"
+  },
+  {
+    "ask": "1.38142000010170290325",
+    "bid": "1.381340000085366812",
+    "currency": "CAD",
+    "pair": "USDCAD"
+  },
+  {
+    "ask": "0.51351900070691667537",
+    "bid": "0.51189360376133498458",
+    "currency": "CAKE",
+    "pair": "USD-CAKE"
+  },
+  {
+    "ask": "1.80316673078907878026",
+    "bid": "1.79701515534708757316",
+    "currency": "CELO",
+    "pair": "USD-CELO"
+  },
+  {
+    "ask": "74.02109361339638489566",
+    "bid": "73.71662869412547689222",
+    "currency": "CELR",
+    "pair": "USD-CELR"
+  },
+  {
+    "ask": "0.88450000004590555001",
+    "bid": "0.88446000001559479872",
+    "currency": "CHF",
+    "pair": "USDCHF"
+  },
+  {
+    "ask": "4.37538753955977110028",
+    "bid": "4.36171120581903045174",
+    "currency": "CHR",
+    "pair": "USD-CHR"
+  },
+  {
+    "ask": "21.39549309457999890725",
+    "bid": "21.22400473818265138221",
+    "currency": "CLV",
+    "pair": "USD-CLV"
+  },
+  {
+    "ask": "7.26967000375488633232",
+    "bid": "7.26281200255071410091",
+    "currency": "CNY",
+    "pair": "USDCNY"
+  },
+  {
+    "ask": "0.02049679146526488654",
+    "bid": "0.02044683536697233844",
+    "currency": "COMP",
+    "pair": "USD-COMP"
+  },
+  {
+    "ask": "491372.97451391862104862177",
+    "bid": "486130.60866201616301631597",
+    "currency": "COQ",
+    "pair": "USD-COQ"
+  },
+  {
+    "ask": "11.70507442202197758352",
+    "bid": "11.12713004898004642314",
+    "currency": "COREUM",
+    "pair": "USD-COREUM"
+  },
+  {
+    "ask": "287.25101297633471039554",
+    "bid": "277.73796866893523039475",
+    "currency": "COVAL",
+    "pair": "USD-COVAL"
+  },
+  {
+    "ask": "7.38426497329579890772",
+    "bid": "7.12505829936452289033",
+    "currency": "CQT",
+    "pair": "USD-CQT"
+  },
+  {
+    "ask": "10.91871536361017837318",
+    "bid": "10.88406922156136681431",
+    "currency": "CRO",
+    "pair": "USD-CRO"
+  },
+  {
+    "ask": "3.85009876248319879946",
+    "bid": "3.83741476424984572048",
+    "currency": "CRV",
+    "pair": "USD-CRV"
+  },
+  {
+    "ask": "48.92058753801747274122",
+    "bid": "48.7886816854719468959",
+    "currency": "CSPR",
+    "pair": "USD-CSPR"
+  },
+  {
+    "ask": "6.70040429669991922094",
+    "bid": "6.67821831925654622366",
+    "currency": "CTSI",
+    "pair": "USD-CTSI"
+  },
+  {
+    "ask": "9.83771865563116116706",
+    "bid": "9.76479782435773607119",
+    "currency": "CVC",
+    "pair": "USD-CVC"
+  },
+  {
+    "ask": "0.34142102704043055586",
+    "bid": "0.33967063692941525701",
+    "currency": "CVX",
+    "pair": "USD-CVX"
+  },
+  {
+    "ask": "8.38930312140356604998",
+    "bid": "8.06198857858400551547",
+    "currency": "CXT",
+    "pair": "USD-CXT"
+  },
+  {
+    "ask": "23.45381003602509912296",
+    "bid": "23.43409004697203998103",
+    "currency": "CZK",
+    "pair": "USDCZK"
+  },
+  {
+    "ask": "44.3282968202186752118",
+    "bid": "44.00100602140127091009",
+    "currency": "C_T",
+    "pair": "USD-C_T"
+  },
+  {
+    "ask": "34.0282822801456331536",
+    "bid": "33.67987182141326103998",
+    "currency": "DAG",
+    "pair": "USD-DAG"
+  },
+  {
+    "ask": "1.00092855551547322698",
+    "bid": "0.99949375221662851834",
+    "currency": "DAI",
+    "pair": "USD-DAI"
+  },
+  {
+    "ask": "5.256241226272289654",
+    "bid": "5.24130611713151408786",
+    "currency": "DAR",
+    "pair": "USD-DAR"
+  },
+  {
+    "ask": "0.0375855541783992513",
+    "bid": "0.03748740183833394961",
+    "currency": "DASH",
+    "pair": "USDDASH"
+  },
+  {
+    "ask": "0.08410917739610754286",
+    "bid": "0.08351391605722939425",
+    "currency": "DCR",
+    "pair": "USDDCR"
+  },
+  {
+    "ask": "133.99270069403261229584",
+    "bid": "131.99743655698308876562",
+    "currency": "DEGEN",
+    "pair": "USD-DEGEN"
+  },
+  {
+    "ask": "138.12178543125937717434",
+    "bid": "137.42154363586127317157",
+    "currency": "DGB",
+    "pair": "USDDGB"
+  },
+  {
+    "ask": "6.88514000344550307137",
+    "bid": "6.88448000211050618944",
+    "currency": "DKK",
+    "pair": "USDDKK"
+  },
+  {
+    "ask": "23.88219807748448769439",
+    "bid": "23.34364692226072323627",
+    "currency": "DNT",
+    "pair": "USD-DNT"
+  },
+  {
+    "ask": "7.86581255405440464608",
+    "bid": "7.85087714835641761285",
+    "currency": "DOGE",
+    "pair": "USDDOGE"
+  },
+  {
+    "ask": "0.1740235974646694834",
+    "bid": "0.17361119137011812158",
+    "currency": "DOT",
+    "pair": "USD-DOT"
+  },
+  {
+    "ask": "0.77206224336776490571",
+    "bid": "0.769641266872963826",
+    "currency": "DYDX",
+    "pair": "USD-DYDX"
+  },
+  {
+    "ask": "0.03005638915712325832",
+    "bid": "0.02996433975364503973",
+    "currency": "EGLD",
+    "pair": "USD-EGLD"
+  },
+  {
+    "ask": "0.037104123337980952",
+    "bid": "0.03701140760066680718",
+    "currency": "ENS",
+    "pair": "USD-ENS"
+  },
+  {
+    "ask": "1.68878445487851888783",
+    "bid": "1.68434974310559634538",
+    "currency": "EOS",
+    "pair": "USDEOS"
+  },
+  {
+    "ask": "0.00030170961966519998",
+    "bid": "0.00030032056255960461",
+    "currency": "ETH",
+    "pair": "USDETH"
+  },
+  {
+    "ask": "0.22546577447720486769",
+    "bid": "0.2191578959842888492",
+    "currency": "EUL",
+    "pair": "USD-EUL"
+  },
+  {
+    "ask": "0.92257731197874381874",
+    "bid": "0.92247634749059087593",
+    "currency": "EUR",
+    "pair": "USDEUR"
+  },
+  {
+    "ask": "0.92301984264943470905",
+    "bid": "0.921703927524174908",
+    "currency": "EUROC",
+    "pair": "USD-EUROC"
+  },
+  {
+    "ask": "7.44439524915102646311",
+    "bid": "7.32004947070969532485",
+    "currency": "EVR",
+    "pair": "USD-EVR"
+  },
+  {
+    "ask": "0.54486683771871087678",
+    "bid": "0.5415115249437298222",
+    "currency": "EWT",
+    "pair": "USD-EWT"
+  },
+  {
+    "ask": "30.8559699388551619938",
+    "bid": "29.51956747481038482207",
+    "currency": "EXFI",
+    "pair": "USD-EXFI"
+  },
+  {
+    "ask": "0.02210739755714849434",
+    "bid": "0.02202764663753142964",
+    "currency": "FARM",
+    "pair": "USD-FARM"
+  },
+  {
+    "ask": "0.82398356320818127888",
+    "bid": "0.82131639499109841357",
+    "currency": "FET",
+    "pair": "USD-FET"
+  },
+  {
+    "ask": "0.23429559800160229409",
+    "bid": "0.23369607576049721558",
+    "currency": "FIL",
+    "pair": "USD-FIL"
+  },
+  {
+    "ask": "2.88861818672150089745",
+    "bid": "2.8687231910574269626",
+    "currency": "FIS",
+    "pair": "USD-FIS"
+  },
+  {
+    "ask": "5619.1969209706672192516",
+    "bid": "5565.50621718889933166278",
+    "currency": "FLOKI",
+    "pair": "USD-FLOKI"
+  },
+  {
+    "ask": "1.54982659907680276308",
+    "bid": "1.54202374521532468305",
+    "currency": "FLOW",
+    "pair": "USD-FLOW"
+  },
+  {
+    "ask": "52.9484954788259257797",
+    "bid": "52.75108876005279476666",
+    "currency": "FLR",
+    "pair": "USD-FLR"
+  },
+  {
+    "ask": "1.51117040700657677214",
+    "bid": "1.49863814765145439586",
+    "currency": "FLUX",
+    "pair": "USD-FLUX"
+  },
+  {
+    "ask": "18.18758989773301895163",
+    "bid": "17.86801461873045472601",
+    "currency": "FOX",
+    "pair": "USD-FOX"
+  },
+  {
+    "ask": "1.01709461606972961386",
+    "bid": "0.99692137788316263349",
+    "currency": "FRAX",
+    "pair": "USD-FRAX"
+  },
+  {
+    "ask": "2.19591945410658031921",
+    "bid": "2.18892790402367173178",
+    "currency": "FTM",
+    "pair": "USD-FTM"
+  },
+  {
+    "ask": "0.45116726188674010906",
+    "bid": "0.44957173194164332389",
+    "currency": "FXS",
+    "pair": "USD-FXS"
+  },
+  {
+    "ask": "0.30356438536054459317",
+    "bid": "0.29820250612511906219",
+    "currency": "GAL",
+    "pair": "USD-GAL"
+  },
+  {
+    "ask": "43.03742052500118428222",
+    "bid": "42.4961968559826199054",
+    "currency": "GALA",
+    "pair": "USD-GALA"
+  },
+  {
+    "ask": "0.77623750429127767617",
+    "bid": "0.77557071084476458656",
+    "currency": "GBP",
+    "pair": "USDGBP"
+  },
+  {
+    "ask": "0.361890651770327176",
+    "bid": "0.35906202943026990957",
+    "currency": "GFI",
+    "pair": "USD-GFI"
+  },
+  {
+    "ask": "0.96442145593054149028",
+    "bid": "0.95849523823543399875",
+    "currency": "GHST",
+    "pair": "USD-GHST"
+  },
+  {
+    "ask": "2.96611833634731690999",
+    "bid": "2.94400662815065385019",
+    "currency": "GLM",
+    "pair": "USD-GLM"
+  },
+  {
+    "ask": "5.2122484078510948988",
+    "bid": "5.07890898495399979057",
+    "currency": "GLMR",
+    "pair": "USD-GLMR"
+  },
+  {
+    "ask": "0.03401647143229156247",
+    "bid": "0.0337255220231894973",
+    "currency": "GMX",
+    "pair": "USD-GMX"
+  },
+  {
+    "ask": "0.0043681202830371664",
+    "bid": "0.0043030327954295946",
+    "currency": "GNO",
+    "pair": "USD-GNO"
+  },
+  {
+    "ask": "0.30197862895364587977",
+    "bid": "0.30059755128008538215",
+    "currency": "GNS",
+    "pair": "USD-GNS"
+  },
+  {
+    "ask": "3.57450066836835632306",
+    "bid": "3.55160360004420567349",
+    "currency": "GODS",
+    "pair": "USD-GODS"
+  },
+  {
+    "ask": "5.20277348158468492952",
+    "bid": "5.18708161411425157567",
+    "currency": "GRT",
+    "pair": "USD-GRT"
+  },
+  {
+    "ask": "1.07899199673396546054",
+    "bid": "1.05962906175569532132",
+    "currency": "GTC",
+    "pair": "USD-GTC"
+  },
+  {
+    "ask": "1.01734372599582247312",
+    "bid": "0.98408032029406971476",
+    "currency": "GUSD",
+    "pair": "USD-GUSD"
+  },
+  {
+    "ask": "0.07581975497745170047",
+    "bid": "0.07428467157580516134",
+    "currency": "HAPI",
+    "pair": "USD-HAPI"
+  },
+  {
+    "ask": "15.0902756121136402782",
+    "bid": "14.96782781412020421535",
+    "currency": "HBAR",
+    "pair": "USD-HBAR"
+  },
+  {
+    "ask": "4.96684192949864699551",
+    "bid": "4.94904484216495301468",
+    "currency": "HFT",
+    "pair": "USD-HFT"
+  },
+  {
+    "ask": "0.59361123513557613647",
+    "bid": "0.59190800701467645746",
+    "currency": "HIGH",
+    "pair": "USD-HIGH"
+  },
+  {
+    "ask": "7.81220012137440342974",
+    "bid": "7.80824100104616764992",
+    "currency": "HKD",
+    "pair": "USDHKD"
+  },
+  {
+    "ask": "0.21073063036866781489",
+    "bid": "0.20978210636074646524",
+    "currency": "HNT",
+    "pair": "USD-HNT"
+  },
+  {
+    "ask": "31.11518190344505396009",
+    "bid": "28.54708875261631570547",
+    "currency": "HOP",
+    "pair": "USD-HOP"
+  },
+  {
+    "ask": "363.34500058353207093716",
+    "bid": "363.03500604979685831683",
+    "currency": "HUF",
+    "pair": "USDHUF"
+  },
+  {
+    "ask": "0.1028966794841437308",
+    "bid": "0.10207869324854883897",
+    "currency": "ICP",
+    "pair": "USD-ICP"
+  },
+  {
+    "ask": "6.45274527676064856788",
+    "bid": "6.42549352904995952812",
+    "currency": "ICX",
+    "pair": "USD-ICX"
+  },
+  {
+    "ask": "3.65849999991969592501",
+    "bid": "3.64100000102894660029",
+    "currency": "ILS",
+    "pair": "USDILS"
+  },
+  {
+    "ask": "0.01434834154835429725",
+    "bid": "0.01430185534598928175",
+    "currency": "ILV",
+    "pair": "USD-ILV"
+  },
+  {
+    "ask": "0.67842986706099861755",
+    "bid": "0.67622072593801278734",
+    "currency": "IMX",
+    "pair": "USD-IMX"
+  },
+  {
+    "ask": "0.04187467647207257779",
+    "bid": "0.04174575509430130719",
+    "currency": "INJ",
+    "pair": "USD-INJ"
+  },
+  {
+    "ask": "6.1705174566567489256",
+    "bid": "6.11221648305061037614",
+    "currency": "IOTA",
+    "pair": "USDIOTA"
+  },
+  {
+    "ask": "624.37406499983766274311",
+    "bid": "593.2931179481550808881",
+    "currency": "JAM",
+    "pair": "USD-JAM"
+  },
+  {
+    "ask": "2.71467514129898362506",
+    "bid": "2.70492454746462873835",
+    "currency": "JOE",
+    "pair": "USD-JOE"
+  },
+  {
+    "ask": "153.29200090454543893755",
+    "bid": "153.24318904899652145623",
+    "currency": "JPY",
+    "pair": "USDJPY"
+  },
+  {
+    "ask": "0.36758910881946749233",
+    "bid": "0.36534986910991299312",
+    "currency": "JTO",
+    "pair": "USD-JTO"
+  },
+  {
+    "ask": "1.00258678278049829557",
+    "bid": "0.99632692203973142297",
+    "currency": "JUP",
+    "pair": "USD-JUP"
+  },
+  {
+    "ask": "5.62914159272732424109",
+    "bid": "5.61981341694565167293",
+    "currency": "KAS",
+    "pair": "USD-KAS"
+  },
+  {
+    "ask": "2.49951750876209299534",
+    "bid": "2.49188044616372821179",
+    "currency": "KAVA",
+    "pair": "USD-KAVA"
+  },
+  {
+    "ask": "1.73161450536961787898",
+    "bid": "1.7207073277611050778",
+    "currency": "KDA",
+    "pair": "USD-KDA"
+  },
+  {
+    "ask": "7.31522472763190853097",
+    "bid": "7.23831187925318546361",
+    "currency": "KLAY",
+    "pair": "USD-KLAY"
+  },
+  {
+    "ask": "1.9034117647646194007",
+    "bid": "1.86767906471506334356",
+    "currency": "KNC",
+    "pair": "USD-KNC"
+  },
+  {
+    "ask": "0.01881016889823169306",
+    "bid": "0.01870171429541042566",
+    "currency": "KP3R",
+    "pair": "USD-KP3R"
+  },
+  {
+    "ask": "0.04790018669925145959",
+    "bid": "0.04777198837181492173",
+    "currency": "KSM",
+    "pair": "USD-KSM"
+  },
+  {
+    "ask": "0.61758165951599680438",
+    "bid": "0.61241390036153431429",
+    "currency": "LDO",
+    "pair": "USD-LDO"
+  },
+  {
+    "ask": "0.07478332405455289075",
+    "bid": "0.07462647260454304534",
+    "currency": "LINK",
+    "pair": "USDLINK"
+  },
+  {
+    "ask": "1.43084688393027311433",
+    "bid": "1.41552851546990219938",
+    "currency": "LIT",
+    "pair": "USD-LIT"
+  },
+  {
+    "ask": "5.65606829140022434875",
+    "bid": "5.62815081540969818252",
+    "currency": "LOKA",
+    "pair": "USD-LOKA"
+  },
+  {
+    "ask": "16.36513156239382251502",
+    "bid": "16.3045444464873495151",
+    "currency": "LOOM",
+    "pair": "USD-LOOM"
+  },
+  {
+    "ask": "0.0665013541044360032",
+    "bid": "0.06631547842544908906",
+    "currency": "LPT",
+    "pair": "USD-LPT"
+  },
+  {
+    "ask": "1.28195712164328344358",
+    "bid": "1.27613729062147643459",
+    "currency": "LQTY",
+    "pair": "USD-LQTY"
+  },
+  {
+    "ask": "6.49395758741490657287",
+    "bid": "6.46638007946053380971",
+    "currency": "LRC",
+    "pair": "USD-LRC"
+  },
+  {
+    "ask": "0.99768513254459243367",
+    "bid": "0.99279767125994774803",
+    "currency": "LSK",
+    "pair": "USD-LSK"
+  },
+  {
+    "ask": "0.01400207369236125386",
+    "bid": "0.01397944304324606749",
+    "currency": "LTC",
+    "pair": "USDLTC"
+  },
+  {
+    "ask": "2.45478283994601482819",
+    "bid": "2.42891645677869250215",
+    "currency": "LUNA2",
+    "pair": "USD-LUNA2"
+  },
+  {
+    "ask": "12087.86952652348502289715",
+    "bid": "11673.60030020689708994151",
+    "currency": "LUNC",
+    "pair": "USD-LUNC"
+  },
+  {
+    "ask": "0.57172070492929884424",
+    "bid": "0.54850194535298111649",
+    "currency": "LYX",
+    "pair": "USD-LYX"
+  },
+  {
+    "ask": "2.10868865513696988531",
+    "bid": "2.10225978105531990449",
+    "currency": "MAGIC",
+    "pair": "USD-MAGIC"
+  },
+  {
+    "ask": "3.05243126446300310851",
+    "bid": "3.04445638884814577471",
+    "currency": "MANA",
+    "pair": "USD-MANA"
+  },
+  {
+    "ask": "0.43692148879143884728",
+    "bid": "0.43557762336407288905",
+    "currency": "MASK",
+    "pair": "USD-MASK"
+  },
+  {
+    "ask": "1.9296779628546127246",
+    "bid": "1.92603200064033630306",
+    "currency": "MATIC",
+    "pair": "USD-MATIC"
+  },
+  {
+    "ask": "4.984865566796988483",
+    "bid": "4.94171325320231963308",
+    "currency": "MAV",
+    "pair": "USD-MAV"
+  },
+  {
+    "ask": "23.93403928122499506205",
+    "bid": "23.76323952552937695435",
+    "currency": "MDT",
+    "pair": "USD-MDT"
+  },
+  {
+    "ask": "65.9166811699844410925",
+    "bid": "65.41697308522001226097",
+    "currency": "MEME",
+    "pair": "USD-MEME"
+  },
+  {
+    "ask": "0.02096553309397815638",
+    "bid": "0.02085484321396458117",
+    "currency": "METIS",
+    "pair": "USD-METIS"
+  },
+  {
+    "ask": "1.98043156758685204672",
+    "bid": "1.9526331824240452858",
+    "currency": "MINA",
+    "pair": "USD-MINA"
+  },
+  {
+    "ask": "0.00036775364948325876",
+    "bid": "0.00036683499404950451",
+    "currency": "MKR",
+    "pair": "USD-MKR"
+  },
+  {
+    "ask": "1.19652863084901396927",
+    "bid": "1.18224926533555796089",
+    "currency": "MNT",
+    "pair": "USD-MNT"
+  },
+  {
+    "ask": "0.09346387924493928511",
+    "bid": "0.09313326273684681058",
+    "currency": "MOVR",
+    "pair": "USD-MOVR"
+  },
+  {
+    "ask": "0.93359704466068843046",
+    "bid": "0.9301198149856336958",
+    "currency": "MTL",
+    "pair": "USD-MTL"
+  },
+  {
+    "ask": "18.42136000166602779856",
+    "bid": "18.41519000076691900277",
+    "currency": "MXN",
+    "pair": "USDMXN"
+  },
+  {
+    "ask": "6.7536347476333948574",
+    "bid": "6.69912821243362162111",
+    "currency": "MYRO",
+    "pair": "USD-MYRO"
+  },
+  {
+    "ask": "3.46178362478847801042",
+    "bid": "3.36052909272289371651",
+    "currency": "MYTH",
+    "pair": "USD-MYTH"
+  },
+  {
+    "ask": "1.08298572479705460217",
+    "bid": "1.06604395383503096822",
+    "currency": "NANO",
+    "pair": "USDNANO"
+  },
+  {
+    "ask": "0.17691053304526056207",
+    "bid": "0.17655504996633700692",
+    "currency": "NEAR",
+    "pair": "USD-NEAR"
+  },
+  {
+    "ask": "0.08808421773534773044",
+    "bid": "0.08732238590381052403",
+    "currency": "NEO",
+    "pair": "USDNEO"
+  },
+  {
+    "ask": "0.07393130487832584175",
+    "bid": "0.07328514297572641803",
+    "currency": "NMR",
+    "pair": "USD-NMR"
+  },
+  {
+    "ask": "11.0395400069198486253",
+    "bid": "11.03469000988541601066",
+    "currency": "NOK",
+    "pair": "USDNOK"
+  },
+  {
+    "ask": "20.81586231988997068232",
+    "bid": "19.80231722953779777697",
+    "currency": "NUM",
+    "pair": "USD-NUM"
+  },
+  {
+    "ask": "11.41266489969778019366",
+    "bid": "10.8805335521185217042",
+    "currency": "NXRA",
+    "pair": "USD-NXRA"
+  },
+  {
+    "ask": "1.68958875409725272869",
+    "bid": "1.68943400016166193947",
+    "currency": "NZD",
+    "pair": "USDNZD"
+  },
+  {
+    "ask": "1.90603380802002363842",
+    "bid": "1.8959882386889648891",
+    "currency": "OCEAN",
+    "pair": "USD-OCEAN"
+  },
+  {
+    "ask": "6.39136216300446078028",
+    "bid": "5.84478691073250697316",
+    "currency": "OCT",
+    "pair": "USD-OCT"
+  },
+  {
+    "ask": "0.78173929489981456292",
+    "bid": "0.7676020537154874096",
+    "currency": "OLAS",
+    "pair": "USD-OLAS"
+  },
+  {
+    "ask": "1.05168062298070208398",
+    "bid": "1.04918219611490963538",
+    "currency": "ONDO",
+    "pair": "USD-ONDO"
+  },
+  {
+    "ask": "73.71790410916571855613",
+    "bid": "73.01486847035880367941",
+    "currency": "ONE",
+    "pair": "USD-ONE"
+  },
+  {
+    "ask": "5.08977698828595562608",
+    "bid": "5.06888851649004019873",
+    "currency": "ONT",
+    "pair": "USD-ONT"
+  },
+  {
+    "ask": "0.57646856341048928592",
+    "bid": "0.57346968965295360023",
+    "currency": "OP",
+    "pair": "USD-OP"
+  },
+  {
+    "ask": "94.58478998639151875592",
+    "bid": "92.68534401782791469941",
+    "currency": "OPEN",
+    "pair": "USD-OPEN"
+  },
+  {
+    "ask": "0.14238204222676127422",
+    "bid": "0.14137773354058630268",
+    "currency": "ORAI",
+    "pair": "USD-ORAI"
+  },
+  {
+    "ask": "40.92239855688307316312",
+    "bid": "40.7325000430542525455",
+    "currency": "ORBS",
+    "pair": "USD-ORBS"
+  },
+  {
+    "ask": "0.38434681841776444836",
+    "bid": "0.38260614385816854402",
+    "currency": "ORCA",
+    "pair": "USD-ORCA"
+  },
+  {
+    "ask": "0.02663314669845206392",
+    "bid": "0.02658176191855187994",
+    "currency": "ORDI",
+    "pair": "USD-ORDI"
+  },
+  {
+    "ask": "0.72277027316966810468",
+    "bid": "0.71858335809403915875",
+    "currency": "ORN",
+    "pair": "USD-ORN"
+  },
+  {
+    "ask": "12.63919012397344276628",
+    "bid": "12.57663343632946324959",
+    "currency": "OXT",
+    "pair": "USD-OXT"
+  },
+  {
+    "ask": "0.00041951404500294345",
+    "bid": "0.00041800018324700444",
+    "currency": "PAXG",
+    "pair": "USD-PAXG"
+  },
+  {
+    "ask": "0.26759822524833408391",
+    "bid": "0.26675651796584580238",
+    "currency": "PENDLE",
+    "pair": "USD-PENDLE"
+  },
+  {
+    "ask": "83120.23487018782517389159",
+    "bid": "82416.50031610354197239616",
+    "currency": "PEPE",
+    "pair": "USD-PEPE"
+  },
+  {
+    "ask": "1.60909578880115347916",
+    "bid": "1.60393100238099772026",
+    "currency": "PERP",
+    "pair": "USD-PERP"
+  },
+  {
+    "ask": "8.22509027482787771006",
+    "bid": "8.1668896917654697594",
+    "currency": "PHA",
+    "pair": "USD-PHA"
+  },
+  {
+    "ask": "0.98535377004415076116",
+    "bid": "0.92077038792885873408",
+    "currency": "PICKLE",
+    "pair": "USD-PICKLE"
+  },
+  {
+    "ask": "3.96670000093590319823",
+    "bid": "3.96442000126847961012",
+    "currency": "PLN",
+    "pair": "USDPLN"
+  },
+  {
+    "ask": "9.19942442255596975586",
+    "bid": "9.08131141612584414944",
+    "currency": "POLIS",
+    "pair": "USD-POLIS"
+  },
+  {
+    "ask": "3.28999912845620087806",
+    "bid": "3.20861883584963912489",
+    "currency": "POLS",
+    "pair": "USD-POLS"
+  },
+  {
+    "ask": "4.69091782618274587957",
+    "bid": "4.67354729761028286513",
+    "currency": "POWR",
+    "pair": "USD-POWR"
+  },
+  {
+    "ask": "12.90140705764299906037",
+    "bid": "12.76734644717534920786",
+    "currency": "PRQ",
+    "pair": "USD-PRQ"
+  },
+  {
+    "ask": "0.31535267429007241247",
+    "bid": "0.31397061871565412686",
+    "currency": "PYR",
+    "pair": "USD-PYR"
+  },
+  {
+    "ask": "2.9412694320038715106",
+    "bid": "2.92057669397818163612",
+    "currency": "PYTH",
+    "pair": "USD-PYTH"
+  },
+  {
+    "ask": "1.00123917846278073257",
+    "bid": "0.99969243942261094874",
+    "currency": "PYUSD",
+    "pair": "USD-PYUSD"
+  },
+  {
+    "ask": "0.01403370359715275925",
+    "bid": "0.01396490357980899539",
+    "currency": "QNT",
+    "pair": "USD-QNT"
+  },
+  {
+    "ask": "0.38497089626530242461",
+    "bid": "0.38406591164901972406",
+    "currency": "QTUM",
+    "pair": "USD-QTUM"
+  },
+  {
+    "ask": "0.85122329491663322365",
+    "bid": "0.84787448532789322593",
+    "currency": "RAD",
+    "pair": "USD-RAD"
+  },
+  {
+    "ask": "12.05717847776858125868",
+    "bid": "12.00027847846237119778",
+    "currency": "RARE",
+    "pair": "USD-RARE"
+  },
+  {
+    "ask": "0.51313792175540795008",
+    "bid": "0.50236328889503419406",
+    "currency": "RARI",
+    "pair": "USD-RARI"
+  },
+  {
+    "ask": "0.43610369718944446083",
+    "bid": "0.43167196941075384896",
+    "currency": "RAY",
+    "pair": "USD-RAY"
+  },
+  {
+    "ask": "10.40059828401568971854",
+    "bid": "10.34209955788424152706",
+    "currency": "RDNT",
+    "pair": "USD-RDNT"
+  },
+  {
+    "ask": "20.9766446332326612415",
+    "bid": "20.90689463410771572061",
+    "currency": "REN",
+    "pair": "USD-REN"
+  },
+  {
+    "ask": "0.16056509526770310066",
+    "bid": "0.16013447176713610427",
+    "currency": "RNDR",
+    "pair": "USD-RNDR"
+  },
+  {
+    "ask": "4.58919620415264551923",
+    "bid": "4.58557289312466979805",
+    "currency": "RON",
+    "pair": "USDRON"
+  },
+  {
+    "ask": "26.68230391981989017938",
+    "bid": "26.36737794250709256099",
+    "currency": "ROOT",
+    "pair": "USD-ROOT"
+  },
+  {
+    "ask": "11.4349587220745700965",
+    "bid": "11.40818247712777202819",
+    "currency": "ROSE",
+    "pair": "USD-ROSE"
+  },
+  {
+    "ask": "0.06323945729434468806",
+    "bid": "0.06080011585126458818",
+    "currency": "RPL",
+    "pair": "USD-RPL"
+  },
+  {
+    "ask": "191.58276155937102842949",
+    "bid": "190.95651704326060697094",
+    "currency": "RSR",
+    "pair": "USD-RSR"
+  },
+  {
+    "ask": "0.22177175919823873919",
+    "bid": "0.22125524502968364958",
+    "currency": "RUNE",
+    "pair": "USD-RUNE"
+  },
+  {
+    "ask": "53.91128909240328639553",
+    "bid": "53.48600378253018750053",
+    "currency": "RVN",
+    "pair": "USD-RVN"
+  },
+  {
+    "ask": "3.14759931157332018514",
+    "bid": "3.14016104096087294969",
+    "currency": "SAND",
+    "pair": "USD-SAND"
+  },
+  {
+    "ask": "1.86712947279594038553",
+    "bid": "1.84603977475526489509",
+    "currency": "SD",
+    "pair": "USD-SD"
+  },
+  {
+    "ask": "0.35483516937132694967",
+    "bid": "0.35172110984902337453",
+    "currency": "SEAM",
+    "pair": "USD-SEAM"
+  },
+  {
+    "ask": "2.84977178319391894974",
+    "bid": "2.82968481248695311917",
+    "currency": "SEI",
+    "pair": "USD-SEI"
+  },
+  {
+    "ask": "10.78706000203856017331",
+    "bid": "10.78305000594474938352",
+    "currency": "SEK",
+    "pair": "USDSEK"
+  },
+  {
+    "ask": "120.80221513572267793046",
+    "bid": "120.02601251753685065642",
+    "currency": "SGB",
+    "pair": "USD-SGB"
+  },
+  {
+    "ask": "1.34368000005821896705",
+    "bid": "1.34353800012019908976",
+    "currency": "SGD",
+    "pair": "USDSGD"
+  },
+  {
+    "ask": "60112.43669406756439633597",
+    "bid": "59510.09800757912633871394",
+    "currency": "SHIB",
+    "pair": "USD-SHIB"
+  },
+  {
+    "ask": "145.47148150891632532754",
+    "bid": "131.23771721597503711632",
+    "currency": "SHPING",
+    "pair": "USD-SHPING"
+  },
+  {
+    "ask": "22.18213634140966136649",
+    "bid": "22.01871609804429609486",
+    "currency": "SKL",
+    "pair": "USD-SKL"
+  },
+  {
+    "ask": "1.73994807481312085963",
+    "bid": "1.7114069535197688247",
+    "currency": "SMT",
+    "pair": "USD-SMT"
+  },
+  {
+    "ask": "0.59792044765498397502",
+    "bid": "0.5942059130210478247",
+    "currency": "SNX",
+    "pair": "USD-SNX"
+  },
+  {
+    "ask": "0.00560732802196724605",
+    "bid": "0.00560127430032124517",
+    "currency": "SOL",
+    "pair": "USD-SOL"
+  },
+  {
+    "ask": "9.46198726899642663036",
+    "bid": "9.42390777248177616023",
+    "currency": "SOLO",
+    "pair": "USD-SOLO"
+  },
+  {
+    "ask": "1569.02493729784094323504",
+    "bid": "1522.90541112659059855665",
+    "currency": "SPELL",
+    "pair": "USD-SPELL"
+  },
+  {
+    "ask": "33.7539915529556010999",
+    "bid": "32.93546913351398262497",
+    "currency": "SRM",
+    "pair": "USD-SRM"
+  },
+  {
+    "ask": "2.65294199174775227341",
+    "bid": "2.64427329696378862787",
+    "currency": "STORJ",
+    "pair": "USD-STORJ"
+  },
+  {
+    "ask": "130.54961177678648266343",
+    "bid": "130.1168991040254421216",
+    "currency": "STORM",
+    "pair": "USDSTORM"
+  },
+  {
+    "ask": "1.87451100193845732046",
+    "bid": "1.8683927400454459517",
+    "currency": "STRK",
+    "pair": "USD-STRK"
+  },
+  {
+    "ask": "0.57543084940472705486",
+    "bid": "0.57416934055940989277",
+    "currency": "STX",
+    "pair": "USD-STX"
+  },
+  {
+    "ask": "1.30244529814471858827",
+    "bid": "1.29763875737071368841",
+    "currency": "SUI",
+    "pair": "USD-SUI"
+  },
+  {
+    "ask": "13.68745534219609480447",
+    "bid": "13.60312729475830410285",
+    "currency": "SUKU",
+    "pair": "USD-SUKU"
+  },
+  {
+    "ask": "1.42196613423613303404",
+    "bid": "1.4184545155208353383",
+    "currency": "SUPER",
+    "pair": "USD-SUPER"
+  },
+  {
+    "ask": "136.70659406033635755206",
+    "bid": "136.14891281893614628242",
+    "currency": "SWEAT",
+    "pair": "USD-SWEAT"
+  },
+  {
+    "ask": "2.00164315607273547041",
+    "bid": "1.98594627759489506329",
+    "currency": "SYN",
+    "pair": "USD-SYN"
+  },
+  {
+    "ask": "0.00301908127381206665",
+    "bid": "0.00299831627268018943",
+    "currency": "TAO",
+    "pair": "USD-TAO"
+  },
+  {
+    "ask": "14.84271035858714721798",
+    "bid": "14.71373262696803218085",
+    "currency": "TFUEL",
+    "pair": "USD-TFUEL"
+  },
+  {
+    "ask": "0.68685107131998000437",
+    "bid": "0.68513772537394881967",
+    "currency": "THETA",
+    "pair": "USD-THETA"
+  },
+  {
+    "ask": "0.17041413997535169961",
+    "bid": "0.16887832516235569116",
+    "currency": "TIA",
+    "pair": "USD-TIA"
+  },
+  {
+    "ask": "5.24137462867671442971",
+    "bid": "5.16086851380935597709",
+    "currency": "TLOS",
+    "pair": "USD-TLOS"
+  },
+  {
+    "ask": "2.07792358007192417044",
+    "bid": "2.06122577183207603161",
+    "currency": "TNSR",
+    "pair": "USD-TNSR"
+  },
+  {
+    "ask": "14.3646613357636808083",
+    "bid": "14.23952417821153532832",
+    "currency": "TOKEN",
+    "pair": "USD-TOKEN"
+  },
+  {
+    "ask": "0.1461409097800728205",
+    "bid": "0.14597941809169374097",
+    "currency": "TON",
+    "pair": "USD-TON"
+  },
+  {
+    "ask": "1.51094167109023171035",
+    "bid": "1.50150965857672026491",
+    "currency": "TRAC",
+    "pair": "USD-TRAC"
+  },
+  {
+    "ask": "0.01391438303191568263",
+    "bid": "0.01372103101858477776",
+    "currency": "TRB",
+    "pair": "USD-TRB"
+  },
+  {
+    "ask": "8.13783760615800002166",
+    "bid": "8.11157671696659444646",
+    "currency": "TRU",
+    "pair": "USD-TRU"
+  },
+  {
+    "ask": "7.43958421532704032792",
+    "bid": "7.42521324477342878054",
+    "currency": "TRX",
+    "pair": "USDTRX"
+  },
+  {
+    "ask": "173.26920039045134286409",
+    "bid": "170.55753911778284500181",
+    "currency": "TURBO",
+    "pair": "USD-TURBO"
+  },
+  {
+    "ask": "1.00169296418367642767",
+    "bid": "1.0010434008505837948",
+    "currency": "TUSD",
+    "pair": "USD-TUSD"
+  },
+  {
+    "ask": "0.45572528370033096646",
+    "bid": "0.45375196299831737823",
+    "currency": "UMA",
+    "pair": "USD-UMA"
+  },
+  {
+    "ask": "0.26289786846028881843",
+    "bid": "0.26195389285175083937",
+    "currency": "UNFI",
+    "pair": "USD-UNFI"
+  },
+  {
+    "ask": "0.13488091818787690085",
+    "bid": "0.13459297486902129941",
+    "currency": "UNI",
+    "pair": "USD-UNI"
+  },
+  {
+    "ask": "9.87437313961564288911",
+    "bid": "9.73529287917463852076",
+    "currency": "UOS",
+    "pair": "USD-UOS"
+  },
+  {
+    "ask": "0.34118911177648547016",
+    "bid": "0.32707873681564243118",
+    "currency": "UPCO2",
+    "pair": "USD-UPCO2"
+  },
+  {
+    "ask": "3924.77925079103925799694",
+    "bid": "1000",
+    "currency": "UPT",
+    "pair": "USDUPT"
+  },
+  {
+    "ask": "1.00020004000800160033",
+    "bid": "0.99980003999200159968",
+    "currency": "USDC",
+    "pair": "USD-USDC"
+  },
+  {
+    "ask": "1.00828883874590295405",
+    "bid": "0.99439276903042771102",
+    "currency": "USDP",
+    "pair": "USD-USDP"
+  },
+  {
+    "ask": "1.00038578787488886306",
+    "bid": "0.99994371106862215401",
+    "currency": "USDT",
+    "pair": "USD-USDT"
+  },
+  {
+    "ask": "250.00250002500025000251",
+    "bid": "250",
+    "currency": "VCO",
+    "pair": "USD-VCO"
+  },
+  {
+    "ask": "36.23161363360838683596",
+    "bid": "36.11667278778056519436",
+    "currency": "VET",
+    "pair": "USD-VET"
+  },
+  {
+    "ask": "0.000015299271414948",
+    "bid": "0.00001524565458442249",
+    "currency": "WBTC",
+    "pair": "USD-WBTC"
+  },
+  {
+    "ask": "2.09439737229801475605",
+    "bid": "2.08467031622824947473",
+    "currency": "WCFG",
+    "pair": "USD-WCFG"
+  },
+  {
+    "ask": "6727.72699570510156787484",
+    "bid": "6650.24667693163763420313",
+    "currency": "WEN",
+    "pair": "USD-WEN"
+  },
+  {
+    "ask": "0.40009681544340486773",
+    "bid": "0.39619381327798865822",
+    "currency": "WIF",
+    "pair": "USD-WIF"
+  },
+  {
+    "ask": "0.035300513269462938",
+    "bid": "0.0339847272103715762",
+    "currency": "XAG",
+    "pair": "USDXAG"
+  },
+  {
+    "ask": "0.00042082791833009423",
+    "bid": "0.00041380095710506174",
+    "currency": "XAU",
+    "pair": "USDXAU"
+  },
+  {
+    "ask": "0.05274675554321206787",
+    "bid": "0.05259067245975494325",
+    "currency": "XCH",
+    "pair": "USD-XCH"
+  },
+  {
+    "ask": "644.56654253604190507572",
+    "bid": "638.08395130168807023568",
+    "currency": "XCN",
+    "pair": "USD-XCN"
+  },
+  {
+    "ask": "32.59239031697553203867",
+    "bid": "32.29439863150289779899",
+    "currency": "XDC",
+    "pair": "USD-XDC"
+  },
+  {
+    "ask": "59.5507104938695848611",
+    "bid": "58.12609626544132825663",
+    "currency": "XEM",
+    "pair": "USDXEM"
+  },
+  {
+    "ask": "9.6376662696449322219",
+    "bid": "9.62306272759373339919",
+    "currency": "XLM",
+    "pair": "USDXLM"
+  },
+  {
+    "ask": "0.00112472336904596137",
+    "bid": "0.001",
+    "currency": "XPD",
+    "pair": "USDXPD"
+  },
+  {
+    "ask": "0.00105052246309925899",
+    "bid": "0.00100915540267354665",
+    "currency": "XPT",
+    "pair": "USDXPT"
+  },
+  {
+    "ask": "1.61271736637275405509",
+    "bid": "1.61096209365387962588",
+    "currency": "XRP",
+    "pair": "USDXRP"
+  },
+  {
+    "ask": "1.34682540318903996457",
+    "bid": "1.34181187635483139312",
+    "currency": "XTZ",
+    "pair": "USD-XTZ"
+  },
+  {
+    "ask": "173.70007811987313363175",
+    "bid": "172.37797117781713396697",
+    "currency": "XYO",
+    "pair": "USD-XYO"
+  },
+  {
+    "ask": "0.00017676952240733891",
+    "bid": "0.00017625329285059128",
+    "currency": "YFI",
+    "pair": "USD-YFI"
+  },
+  {
+    "ask": "2.16516369840200095405",
+    "bid": "2.14996165967997388553",
+    "currency": "YGG",
+    "pair": "USD-YGG"
+  },
+  {
+    "ask": "59.74032303396822222244",
+    "bid": "59.541804616592874325",
+    "currency": "ZIL",
+    "pair": "USDZIL"
+  },
+  {
+    "ask": "0.20880429238051744269",
+    "bid": "0.20740464612211769995",
+    "currency": "ZRO",
+    "pair": "USD-ZRO"
+  },
+  {
+    "ask": "2.75682842644260869305",
+    "bid": "2.74862340721382743952",
+    "currency": "ZRX",
+    "pair": "USDZRX"
+  },
+  {
+    "ask": "1.0002",
+    "bid": "0.9998",
+    "currency": "USD",
+    "pair": "USDC-USD"
+  },
+  {
+    "ask": "1.0056388493",
+    "bid": "0.9917793013",
+    "currency": "USD",
+    "pair": "USDP-USD"
+  },
+  {
+    "ask": "1.0000562921",
+    "bid": "0.9996143609",
+    "currency": "USD",
+    "pair": "USDT-USD"
+  },
+  {
+    "ask": "0.004",
+    "bid": "0.00399996",
+    "currency": "USD",
+    "pair": "VCO-USD"
+  },
+  {
+    "ask": "0.0276880433",
+    "bid": "0.027600206",
+    "currency": "USD",
+    "pair": "VET-USD"
+  },
+  {
+    "ask": "65592.4607541461",
+    "bid": "65362.589686654",
+    "currency": "USD",
+    "pair": "WBTC-USD"
+  },
+  {
+    "ask": "0.4796921567",
+    "bid": "0.4774643118",
+    "currency": "USD",
+    "pair": "WCFG-USD"
+  },
+  {
+    "ask": "0.00015037036197",
+    "bid": "0.00014863861162",
+    "currency": "USD",
+    "pair": "WEN-USD"
+  },
+  {
+    "ask": "2.5240172019",
+    "bid": "2.4993950499",
+    "currency": "USD",
+    "pair": "WIF-USD"
+  },
+  {
+    "ask": "29.424982399",
+    "bid": "28.3282",
+    "currency": "USD",
+    "pair": "XAGUSD"
+  },
+  {
+    "ask": "2416.6208",
+    "bid": "2376.2682",
+    "currency": "USD",
+    "pair": "XAUUSD"
+  },
+  {
+    "ask": "19.0147787284",
+    "bid": "18.9585120393",
+    "currency": "USD",
+    "pair": "XCH-USD"
+  },
+  {
+    "ask": "0.0015671919",
+    "bid": "0.0015514302",
+    "currency": "USD",
+    "pair": "XCN-USD"
+  },
+  {
+    "ask": "0.0309651222",
+    "bid": "0.0306820086",
+    "currency": "USD",
+    "pair": "XDC-USD"
+  },
+  {
+    "ask": "0.0172039766",
+    "bid": "0.0167924109",
+    "currency": "USD",
+    "pair": "XEMUSD"
+  },
+  {
+    "ask": "0.1039170198",
+    "bid": "0.1037595588",
+    "currency": "USD",
+    "pair": "XLMUSD"
+  },
+  {
+    "ask": "1000",
+    "bid": "889.1075152535",
+    "currency": "USD",
+    "pair": "XPDUSD"
+  },
+  {
+    "ask": "990.9276582682",
+    "bid": "951.907298631",
+    "currency": "USD",
+    "pair": "XPTUSD"
+  },
+  {
+    "ask": "0.6207470703",
+    "bid": "0.6200714526",
+    "currency": "USD",
+    "pair": "XRPUSD"
+  },
+  {
+    "ask": "0.7452609547",
+    "bid": "0.7424867378",
+    "currency": "USD",
+    "pair": "XTZ-USD"
+  },
+  {
+    "ask": "0.0058012053",
+    "bid": "0.0057570498",
+    "currency": "USD",
+    "pair": "XYO-USD"
+  },
+  {
+    "ask": "5673.6528652982",
+    "bid": "5657.0837912638",
+    "currency": "USD",
+    "pair": "YFI-USD"
+  },
+  {
+    "ask": "0.4651245735",
+    "bid": "0.4618588427",
+    "currency": "USD",
+    "pair": "YGG-USD"
+  },
+  {
+    "ask": "0.0167949226",
+    "bid": "0.0167391127",
+    "currency": "USD",
+    "pair": "ZILUSD"
+  },
+  {
+    "ask": "4.8214927616",
+    "bid": "4.7891735778",
+    "currency": "USD",
+    "pair": "ZRO-USD"
+  },
+  {
+    "ask": "0.3638184836",
+    "bid": "0.3627356677",
+    "currency": "USD",
+    "pair": "ZRXUSD"
+  }
+]
