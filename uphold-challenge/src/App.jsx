@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
-import './App.css'
 import { getTicker } from './api/utils'
 import { useDebounce } from './customHooks/useDebounce'
+import CurrencyConverter from './components/CurrencyConverter'
 
 function App() {
   const [loading, setLoading] = useState(false)
@@ -25,7 +25,12 @@ function App() {
 
   return (
     <div>
-      <input type="text" onChange={(e) => setSearch(e.target.value)} value={search} />
+
+      <CurrencyConverter />
+
+{/*       
+
+      <input type="text" onChange={(e) => setSearch(e.target.value)} value={search}  className='border-2 border-red-600'/>
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <h3>Results</h3>
         {loading && 'Loading...'}
@@ -35,6 +40,10 @@ function App() {
           </div>
         ))}
       </div>
+      <h1 className="text-2xl font-bold underline text-purple-700">
+        Hello world!
+      </h1>
+       */}
     </div>
   )
 }

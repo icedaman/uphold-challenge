@@ -1,4 +1,5 @@
-import data from '../data/tickers.json'
+import allData from '../data/allTickers.json'
+import data from '../data/fewTickers.json'
 
 
 export const getTicker = async (searchedTicker) => { 
