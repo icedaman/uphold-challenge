@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { getTicker } from './api/utils'
 import { useDebounce } from './customHooks/useDebounce'
 import CurrencyConverter from './components/CurrencyConverter'
+import CurrencyConverter2 from './components/CurrencyConverter2'
 
 function App() {
   const [loading, setLoading] = useState(false)
@@ -26,7 +27,7 @@ function App() {
   return (
     <div>
 
-      <CurrencyConverter />
+      <CurrencyConverter2 />
 
 {/*       
 
