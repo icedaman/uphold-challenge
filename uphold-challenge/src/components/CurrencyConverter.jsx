@@ -52,8 +52,6 @@ const CurrencyConverter = () => {
   },[inputValue, selectedCurrency, debouncedLatestRatesValue])
 
 
-
-
   if(isLoading) return <h1>Loading...</h1>
 
   if (isError){
@@ -61,10 +59,14 @@ const CurrencyConverter = () => {
   }
   
   return (
-      <div className='flex flex-col w-full h-full mx-auto bg-pink-400 text-center'>
-        <div className='flex justify-center my-4'>
-          <input type="number" value={inputValue} placeholder='0.00' onChange={handleOnChangeInput} className='p-2'/>
-          <select name="currency" id="currency" onChange={handleOnChangeSelect} defaultValue={selectedCurrency} className='max-w-[100px] p-2 text-center bg-blue-600'>
+      <div className='flex flex-col w-full h-full mx-auto text-center'>
+        <h1 className='text-3xl font-bold py-6'>Currency Converter</h1>
+        <h5 className='text-slate-400 pb-4 w-[500px] mx-auto'>Receive competitive and transparent pricing with no hidden spreads. See how we compare.</h5>
+        <div className='flex justify-center my-4 w-[500px] relative mx-auto'>
+          <input type="number" value={inputValue} placeholder='0.00' onChange={handleOnChangeInput} className='pl-16 pr-24 py-4 rounded-lg bg-slate-200 text-3xl'/>
+          <select name="currency" id="currency" onChange={handleOnChangeSelect} defaultValue={selectedCurrency} 
+            className='max-w-[100px] px-2 py-2 text-center bg-white rounded-full absolute top-[15px] right-[10px]'
+          >
             <option>USD</option>
             {currencysList?.map((currency, i)=> (
               <option value={currency} key={currency+i} >
@@ -74,11 +76,10 @@ const CurrencyConverter = () => {
           </select>
         </div>
 
-        <div>
-          <h1 className='text-2xl font-bold'>Conversion Results</h1>
+        <div className='w-[500px] mx-auto'>
           {conversionResults?.filter(c => c[0] !== selectedCurrency).map((pair, i)=> (
-            <div key={pair+i}>
-              <p>{` ${pair[1]} ${pair[0]}`}</p>
+            <div key={pair+i} className='flex justify-between m-4 border-2 border-slate-200 rounded-full px-4 text-lg font-semibold hover:bg-slate-200'>
+              <span>{pair[1]}</span> <span className=''>{pair[0]}</span>
             </div>
           ))}
         </div>
