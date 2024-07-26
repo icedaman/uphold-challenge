@@ -63,7 +63,7 @@ const CurrencyConverter = () => {
         <div className='flex justify-center my-4 w-[500px] relative mx-auto'>
           <input type="number" value={inputValue} placeholder='0.00' onChange={handleOnChangeInput} className='pl-16 pr-24 py-4 rounded-lg bg-slate-200 text-3xl focus:outline-0'/>
           <select name="currency" id="currency" onChange={handleOnChangeSelect} defaultValue={selectedCurrency} 
-            className='max-w-[100px] px-2 py-2 text-center bg-white rounded-full absolute top-[15px] right-[10px]'
+            className='max-w-[100px] px-2 py-2 text-center bg-white rounded-full absolute top-[15px] right-[10px] focus:outline-0'
           >
             <option>USD</option>
             {currencysList?.map((currency, i)=> (
