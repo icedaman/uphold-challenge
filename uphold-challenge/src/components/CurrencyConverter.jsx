@@ -52,8 +52,6 @@ const CurrencyConverter = () => {
   },[inputValue, selectedCurrency, debouncedLatestRatesValue])
 
 
-  if(isLoading) return <h1>Loading...</h1>
-
   if (isError){
     return <pre>{JSON.stringify(error)}</pre>
   }
@@ -75,7 +73,7 @@ const CurrencyConverter = () => {
             ))}
           </select>
         </div>
-
+        {isLoading && <h1>Loading...</h1>}
         <div className='w-[500px] mx-auto'>
           {conversionResults?.filter(c => c[0] !== selectedCurrency).map((pair, i)=> (
             <div key={pair+i} className='flex justify-between m-4 border-2 border-slate-200 rounded-full px-4 text-lg font-semibold hover:bg-slate-200'>
