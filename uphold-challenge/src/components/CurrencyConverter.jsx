@@ -80,18 +80,17 @@ const CurrencyConverter = () => {
   }
 
   useEffect(() => {
-    for (const key in latestRates) {
-      if (Object.prototype.hasOwnProperty.call(latestRates, key)) {
+    for (const key in debouncedLatestRatesValue) {
+      if (Object.prototype.hasOwnProperty.call(debouncedLatestRatesValue, key)) {
         if(inputValue > 0){
           setConversionResults(conversionResults => [
             ...conversionResults,
-            [key, latestRates[key] * inputValue]
+            [key, debouncedLatestRatesValue[key] * inputValue]
           ])
-          //console.log(`Conversion: ${inputValue} ${selectedCurrency} = ${latestRates[key] * inputValue} ${key}`);
         }
       }
     }
-  },[inputValue, selectedCurrency, latestRates])
+  },[inputValue, selectedCurrency, debouncedLatestRatesValue])
 
   return (
     <div className='flex flex-col w-full h-full mx-auto bg-pink-400 text-center'>
@@ -110,7 +109,7 @@ const CurrencyConverter = () => {
 
       <div>
         <h1 className='text-2xl font-bold'>Conversion Results</h1>
-        {conversionResults.map((pair, i)=> (
+        {conversionResults.filter(c => c[0] !== selectedCurrency).map((pair, i)=> (
           <div key={pair+i}>
             <p>{` ${pair[1]} ${pair[0]}`}</p>
           </div>
