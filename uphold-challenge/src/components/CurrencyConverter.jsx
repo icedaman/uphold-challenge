@@ -1,6 +1,8 @@
 import Freecurrencyapi from '@everapi/freecurrencyapi-js';
 import { useState, useEffect, useMemo } from 'react'
 import Select from 'react-select'
+import { useDebounce } from '../customHooks/useDebounce'
+
 
 const dummyRatesJson = {
   "AUD": 1.5206703041,
@@ -46,20 +48,24 @@ const CurrencyConverter = () => {
   const [inputValue, setInputValue] = useState('')
   const [conversionResults, setConversionResults] = useState([])
   const [currencysList, setCurrencysList] = useState([])
+  const debouncedLatestRatesValue = useDebounce(latestRates)
 
   useEffect(() => {
     const getRates = async () => {
       const response = await freecurrencyapi.latest({
         base_currency: selectedCurrency,
       })
-      if (response.data != undefined) setLatestRates(response.data)
+      
+      if (response.data != undefined){
+        setCurrencysList(Object.keys(response.data));
+        setLatestRates(response.data)
+      } 
     }
 
     getRates()
-    if (latestRates && latestRates != undefined){
-      setCurrencysList(Object.keys(latestRates))
-    }
-  }, [latestRates, selectedCurrency])
+
+    console.log('Making an API Request!')
+  }, [selectedCurrency])
 
 
   const handleOnChangeSelect = (event) => {

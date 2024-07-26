@@ -19,7 +19,7 @@ function App() {
       setLoading(false);
     }
 
-    handleSearch();
+    //handleSearch();
   }, [debouncedSearchValue])
 
 
